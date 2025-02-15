@@ -1,0 +1,29 @@
+<h1>Исторические примеры и их последствия для цен</h1>
+
+<p>
+  В мире криптовалют исторические события, такие как халвинг биткоина, 
+  играют значительную роль в формировании ценовых трендов и рыночной динамики. 
+  Давайте рассмотрим несколько ключевых примеров халвинга и их влияние на 
+  стоимость биткоина, чтобы лучше понять, как подобные события могут менять рынок!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule3/images/change.png?raw=true">
+</p>
+<p>
+  <strong>1. Первый халвинг (2012 год)</strong>
+  <br>Первый халвинг биткоина произошел <strong>28 ноября 2012 года</strong>, когда вознаграждение за 
+  добытый блок сократилось с <em>50 до 25 BTC</em>. Это событие привело к значительному росту 
+  цен на биткоин. В течение следующего года цена выросла с <strong>$5 до $1160</strong>, что составило 
+  <em>более 10000% роста</em>. Это явление объясняется увеличением дефицита биткоинов на фоне 
+  растущего спроса, что создало сильный бычий тренд на рынке.
+</p>
+<img class="iview-image" height="150" width="150" style="align-self: center" data-iview
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule3/images/1.png?raw=true">
+<p>
+  <strong>2. Второй халвинг (2016 год)</strong>
+  <br>Второй халвинг состоялся <strong>9 июля 2016 года</strong>, когда вознаграждение снизилось с 
+  <em>25 до 12,5 BTC</em>. После этого события цена биткоина выросла с <strong>$650 до почти $20,000 в 
+  декабре 2017 года</strong>, что представляет собой рост более чем на <em>3000%</em>. Этот период 
+  также характеризовался увеличением интереса со стороны институциональных инвесторов 
+  и широкой общественности, что способствовало дальнейшему росту капитализации рынка.
+</p>
+<img class="iview-image" height="150" width="150" style="align-self: center" data-iview
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule3/images/2.png?raw=true">

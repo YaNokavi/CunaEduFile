@@ -1,0 +1,23 @@
+<h1>Как торговать паттерны продолжения?</h1>
+
+<p>
+  <br><strong>Дождитесь пробоя</strong>: Цена должна закрыться за границей модели <em>(например, выше флага)</em>.
+  <br><strong>Рассчитайте цель</strong>:
+  <br>- Флаг/вымпел: Длина древка → проекция от точки пробоя.  
+  <br>- Прямоугольник: Высота диапазона → цель после пробоя.  
+  <br><strong>Используйте стоп-лосс</strong>: За противоположной границей паттерна <em>(например, ниже поддержки прямоугольника)</em>.
+</p>
+<h2 style="text-align: center;">
+  <strong>Типичные ошибки</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/lose.png?raw=true">
+</h2>
+<p>
+  <br><strong>Торговля против тренда</strong>: Паттерн продолжения работает только в направлении основного тренда.
+  <br><strong>Игнорирование объема</strong>: Пробой без увеличения объема — риск ложного сигнала.
+  <br><strong>Слишком ранний вход</strong>: Не открывайте позицию, пока паттерн не подтвержден закрытием свечи.
+</p>
+<p>
+  Паттерны продолжения — это ваш <em>«компас»</em> в тренде. Научитесь их распознавать — и вы перестанете 
+  закрывать сделки слишком рано, упуская прибыль!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/profit.png?raw=true">
+</p>

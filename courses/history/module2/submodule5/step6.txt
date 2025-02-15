@@ -1,0 +1,23 @@
+<h1>Рост блокчейна</h1>
+
+<p>
+  <strong>16 декабря 2021</strong> года был отмечен еще один важный этап для TON — анонс <em>первого NFT-проекта</em> 
+  на блокчейне, <strong>TON Bulls</strong>. За ним быстро последовали другие, включая <em>TON Diamonds</em>, <em>Минтозавров</em>, 
+  <em>Animal Red List</em> и <em>TON Punks</em>. Эти проекты показали общественности потенциал TON в качестве 
+  экосистемы, которая способна на большее, чем просто платежи в криптовалюте.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/pay.png?raw=true">
+</p>
+<p>
+  Растущий интерес к TON отразился на его рыночной капитализации, которая, по данным <em>CoinMarketCap</em>, 
+  в <strong>декабре 2021 года</strong> составила уже <strong>$4,6 млрд</strong>. Через месяц после этого к проекту в качестве 
+  советника присоединился бывший <em>генеральный директор VK Андрей Рогозов</em>.
+</p>
+<p>
+  В <strong>2022 году</strong> экосистема TON продолжала развиваться, несмотря на юридические сложности, связанные 
+  с первоначальным проектом Telegram. В этом году инвестор, вложивший средства в <em>ICO TON</em>, проиграл 
+  судебное разбирательство в Лондоне.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/law.png?raw=true">
+</p>
+
+
+

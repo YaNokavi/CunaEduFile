@@ -1,0 +1,34 @@
+<h1>Что такое паттерны продолжения?</h1>
+<p>
+  Это графические модели, которые формируются во время коррекции основного 
+  тренда. Их задача — <strong>накопить силу для следующего импульса</strong>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/change.png?raw=true">
+</p>
+<p>
+  <em>Как отличить от разворота</em>:
+  <br>- Паттерн возникает в направлении тренда <em>(например, при восходящем тренде — временная пауза или откат)</em>.  
+  <br>- Объем торгов снижается во время формирования модели и резко растет при пробое.
+</p>
+<h2 style="text-align: center;">
+  <strong>Основные паттерны продолжения</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/trend.png?raw=true">
+</h2>
+<p>
+  <strong>Флаг <em>(Flag)</em></strong>
+  <br>Как выглядит:  
+  <br>- Древко — сильный импульс <em>(вертикальное движение)</em>.  
+  <br>- Флаг — небольшой прямоугольник или наклонный канал, направленный против тренда.
+  <br>Где искать: После резкого роста <em>(бычий флаг)</em> или падения <em>(медвежий флаг)</em>.  
+  <br>Что означает: Коррекция перед продолжением тренда.
+</p>
+<img class="iview-image" data-iview height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/flag.png?raw=true">
+<p>
+  <strong>Вымпел <em>(Pennant)</em></strong>
+  <br>Как выглядит:  
+  <br>- Древко — резкий импульс.  
+  <br>- Вымпел — симметричный треугольник с сужающимся диапазоном.  
+  <br>Отличие от флага: Вымпел сужается к концу, флаг — параллельный канал.
+</p>
+<img height="120" width="120" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/vimpel.jpg?raw=true">

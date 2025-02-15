@@ -1,0 +1,15 @@
+{
+  "question": "Что означает пробой линии шеи в паттерне «Голова и плечи»?",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/head.jpg?raw=true",
+    "height": 118,
+    "width": 200
+  },
+  "options": [
+    "Продолжение тренда",
+    "Сигнал к покупке",
+    "Сигнал к продаже",
+    "Завершение коррекции"
+  ],
+  "answer": ["Сигнал к продаже"]
+}

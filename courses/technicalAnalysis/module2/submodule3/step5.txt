@@ -1,0 +1,15 @@
+{
+  "question": "Какой из паттернов изображен на рисунке?",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/vimpelTest.jpg?raw=true",
+    "height": 100,
+    "width": 100
+  },
+  "options": [
+    "Флаг",
+    "Клин",
+    "Вымпел",
+    "Треугольник"
+  ],
+  "answer": ["Вымпел"]
+}

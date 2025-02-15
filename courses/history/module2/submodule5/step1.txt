@@ -1,0 +1,23 @@
+<h1>Ton</h1>
+
+<p>
+<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/ton.png?raw=true">
+  В <strong>2013 году Павлом Дуровым</strong> был запущен проект <strong>Telegram</strong>, который изначально позиционировал 
+  себя как мессенджер для конфиденциального общения с высокой степенью безопасности. Но, 
+  благодаря фокусу на приватность, отсутствие рекламы и открытый исходный код, Telegram 
+  быстро привлёк миллионы пользователей по всему миру.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/users.png?raw=true">
+</p>
+<p>
+  В <strong>2017 году</strong> появился анонс о начале работы над <strong>Telegram Open Network</strong> <em>(TON)</em> - инновационной 
+  блокчейн-сети, созданной для интеграции с Telegram. Проект обещал революцию в мире криптовалют, 
+  предлагая быстрые и безопасные транзакции внутри мессенджера.
+</p>
+<p>
+  Разработка блокчейна началась в <strong>2017 году</strong>, и к <strong>2018 году</strong> проект привлёк около <strong>$1.7 миллиарда</strong> 
+  на развитие своей экосистемы. В числе инвесторов фигурировали известные российские олигархи и 
+  бизнесмены <em>(например, Роман Абрамович)</em>. Для разработки кода и смарт-контрактов приглашались 
+  все желающие аутсорс-программисты.<img style="vertical-align: middle" height=40 width=60 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule1/images/programming.png?raw=true">
+</p>

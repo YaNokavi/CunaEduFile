@@ -1,0 +1,10 @@
+<h1>Начало</h1>
+
+<p>
+<img style="vertical-align: middle" height="40" width="40" 
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/secure.png?raw=true">
+  <strong>Криптография</strong> — это искусство защиты информации, которое имеет богатую 
+  историю, простирающуюся на тысячи лет. В этом курсе мы исследуем её 
+  эволюцию от древних шифров, использовавшихся для защиты военных и дипломатических 
+  секретов, до современных алгоритмов, обеспечивающих безопасность данных в цифровую эпоху!
+</p>

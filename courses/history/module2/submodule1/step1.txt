@@ -1,0 +1,10 @@
+<h1>Ethereum</h1>
+
+<p>
+<img style="vertical-align: middle" height=37 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule1/images/ETH.png?raw=true">
+  <strong>Ethereum</strong> 一 вторая по капитализация криптовалюта в мире. 
+  В <strong>2013 году</strong> ее создал <strong>Виталик Бутерин</strong>, и она остается в 
+  топе криптовалют уже многие годы. В этой части курса вы узнаете, 
+  как зарождался данный проект и как проходило его становление!
+</p>

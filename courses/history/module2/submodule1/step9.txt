@@ -1,0 +1,30 @@
+<h1>Ключевые обновления</h1>
+
+<p>
+  <img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule1/images/update.png?raw=true">Первоначальная <em>альфа-версия</em> блокчейна Ethereum называлась <strong>Frontier</strong>. В ней разработчики 
+  не гарантировали безопасности. Первая модернизация блокчейна Ethereum состоялась <strong>14 мая 
+  2016 года</strong> на блоке <strong>1 150 000</strong>. Новую версию протокола назвали <strong>Homestead</strong>. Обновление 
+  устранило из сети контракты <em>Canary</em>. Было объявлено, что защита сети на основе майнинга планируется 
+  только на начальном этапе с дальнейшим переходом только на <strong>proof-of-stake</strong> с гибридной моделью на 
+  промежуточном этапе. При этом защитой от применения для майнинга специализированных 
+  процессоров <em>(ASIC)</em> стали высокие требования к видеопамяти <em>(GPU)<em> — на <strong>июль 2017 года</strong> требовалось <strong>2,04 Гб</strong>.
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/programming.png?raw=true">
+  Обновление <strong>Byzantium</strong> стало началом перехода к методу Proof of Stake. Запуск <strong>Constantinople</strong> 
+  состоялся <strong>28 февраля 2019 года</strong> и подготовил сеть к переходу на PoS-протокол <em>Casper</em> и отмену 
+  прежней модели майнинга, которая состоялась в <strong>первом квартале 2019 года</strong>. Следующая модернизация <strong>Istanbul</strong> 
+  была запланирована на блоке <em>9069000</em>. Среди основных задач Istanbul было обеспечение совместимости 
+  блокчейна Ethereum с анонимной криптовалютой Zcash и повышение масштабируемости сети благодаря 
+  протоколам доказательства с нулевым разглашением SNARKs и STARKs. Кроме того, обновление затруднило 
+  проведение DoS-атак на сеть за счёт изменения стоимости эфира на запуск операционных кодов.
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/network.png?raw=true">
+  В <strong>декабре 2020 года</strong> разработчики запустили сигнальную сеть <strong>Beacon Chain</strong>. Этот блокчейн на 
+  алгоритме PoS практически два года работал параллельно с основной сетью Ethereum, однако в 
+  нём не происходило никакой экономической активности кроме стейкинга ETH.
+</p>

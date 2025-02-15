@@ -1,0 +1,26 @@
+<h1>DeFi-экосистема</h1>
+
+<p>
+  По сравнению с конкурирующими блокчейн-платформами TRON имеет довольно скудный 
+  список развернутых в этой сети <em>DeFi-приложений</em>. По информации сервиса <strong>Defillama</strong>, 
+  в этой сети работает всего <strong>10 протоколов</strong>. Причем экосистема в значительной степени 
+  централизована, так как большинство инструментов и сервисов разработаны под руководством 
+  и контролем <strong>TRON Foundation</strong>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule3/images/management.png?raw=true">
+</p>
+<p>
+  В <strong>мае 2022 года</strong> был выпущен анонсированный Джастином Саном алгоритмический стейблкоин <strong>USDD</strong>, 
+  привязанный к доллару США. Эмиссия актива началась одновременно в блокчейнах <em>TRON</em>, 
+  <em>Ethereum</em> и <em>BNB Chain</em>. Привязку USDD к доллару обеспечивает резервный фонд <strong>Tron DAO Reserve</strong> <em>(TDR)</em>. 
+  Фонд состоит из высоколиквидных активов: стейблкоинов USDT и USDC, а также биткоина и TRX.
+</p>
+<p>
+  После потери привязки стейблкоина <em>UST</em>, в результате чего рухнула экосистема <em>Terra</em>, 
+  команда USDD решила повысить устойчивость USDD, введя избыточную норму резервирования. 
+  Несмотря на это, стабильная монета все равно теряла привязку к доллару США. Тем не менее, 
+  на данный момент, цена монеты варируется около 1$.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule3/images/dollar.png?raw=true">
+</p>
+
+
+

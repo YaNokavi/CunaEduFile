@@ -1,0 +1,26 @@
+<h1>Особенности таймфреймов в криптовалютах</h1>
+
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/specific.png?raw=true">
+  <strong>Круглосуточная торговля</strong>: Нет разрывов между свечами <em>(как в акциях)</em>, 
+  поэтому паттерны формируются непрерывно.  
+  <br><strong>Волатильность</strong>: На малых таймфреймах <em>(1-5 мин)</em> цена может <em>«прыгать»</em> 
+  на 2-5% за минуту — высокий риск ложных сигналов.  
+  <br><em>Пример</em>: На 1-минутном графике Dogecoin часто появляются «ложные молоты», которые исчезают через 10-15 свечей
+</p>
+<h2 style="text-align: center;">
+  <strong>Типичные ошибки новичков</strong>
+</h2>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/risk.png?raw=true">
+  <strong>Торговля вслепую</strong>: анализ только на одном таймфрейме.  
+  <br><strong>Перегрузка графиками</strong>: одновременное использование 10 
+  таймфреймов запутывает. Оптимально — 2-3 <em>(например, дневной + 4H + 1H)</em>.  
+  <br><strong>Игнорирование объема</strong>: на малых таймфреймах объемы 
+  могут быть манипулятивными <em>(например, пампы/дампы)</em>.  
+</p>
+
+
+

@@ -1,0 +1,32 @@
+<h1>Основные паттерны продолжения</h1>
+
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/up.png?raw=true">
+  <strong>Прямоугольник <em>(Rectangle)</em></strong>
+  <br>Как выглядит:  
+  <br>- Цена движется между горизонтальными уровнями поддержки и сопротивления.  
+  <br>- Множество касаний границ.
+  <br>Что означает: Накопление позиций перед продолжением тренда.
+</p>
+<img height="120" width="120" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/rectangle.png?raw=true">
+<p>
+  <strong>Клин <em>(Wedge)</em></strong>
+  <br>Как выглядит:  
+  <br>- Сужение цены в наклонном канале.  
+  <br>- Восходящий клин в нисходящем тренде = сигнал продолжения падения.  
+  <br>- Нисходящий клин в восходящем тренде = сигнал продолжения роста.  
+  <br><em>Важно</em>: Клин должен быть направлен против тренда.
+</p>
+<img class="iview-image" data-iview height="100" width="300" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/wedge.png?raw=true">
+<p>
+  <strong>Метод трех свечей <em>(Rising/Falling Three Methods)</em></strong>
+  <br>Как выглядит:  
+  <br>- Бычий паттерн: Длинная зеленая свеча → 3 маленькие красные → еще одна длинная зеленая.  
+  <br>- Медвежий паттерн: Длинная красная свеча → 3 маленькие зеленые → еще одна длинная красная.  
+  <br>Что означает: Коррекция закончилась — тренд возобновляется.
+</p>
+<img height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/three.png?raw=true">

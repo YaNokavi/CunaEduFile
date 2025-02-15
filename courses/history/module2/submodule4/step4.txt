@@ -1,0 +1,12 @@
+{
+  "question": "Какой уникальный механизм консенсуса использует Solana для повышения скорости обработки транзакций?",
+  "options": [
+    "Proof-of-Work (PoW)",
+    "Proof of History (PoH)",
+    "Delegated Proof-of-Stake (DPoS)",
+    "Byzantine Fault Tolerance"
+  ],
+  "answer": [
+    "Proof of History (PoH)"
+  ]
+}

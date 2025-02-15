@@ -1,0 +1,24 @@
+<h1>Условно развитие блокчейна можно разделить на три поколения</h1>
+<p>
+<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/bitcoin.png?raw=true">
+  <strong>1. Bitcoin</strong> и другие виртуальные валюты. Даже сегодня многие из возможностей 
+  Bitcoin остаются центральными для технологии блокчейн
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/smartcontract.png?raw=true">
+  <strong>2. Смарт-контракты.</strong> Через несколько лет после появления валюты первого 
+  поколения разработчики решили рассмотреть использование блокчейн не только 
+  в рамках криптовалют. Например, изобретатели Ethereum решили использовать 
+  технологию блокчейн в сделках по передаче активов. Значительным вкладом 
+  стала возможность использования смарт-контрактов
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/future.png?raw=true">
+  <strong>3. Будущее.</strong> По мере того как компании внедряют новые приложения, технология 
+  блокчейн продолжает совершенствоваться. Компании преодолевают ограничения 
+  масштаба и вычислений, а потенциал развития блокчейна безграничен
+</p>
+

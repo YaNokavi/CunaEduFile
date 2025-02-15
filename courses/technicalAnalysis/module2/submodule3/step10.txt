@@ -1,0 +1,34 @@
+<h1>Основные паттерны разворота</h1>
+
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/turn.png?raw=true">
+  <strong>Голова и плечи <em>(Head and Shoulders)</em></strong>
+  <br>Как выглядит:  
+  <br>- Левое плечо — локальный максимум.  
+  <br>- Голова — новый, более высокий максимум.  
+  <br>- Правое плечо — максимум ниже головы.  
+  <br>- Линия шеи — поддержка, соединяющая минимумы
+  <br>Где искать: На вершине восходящего тренда.
+  <br>Что означает: Быки теряют силу. Пробой линии шеи — сигнал к продаже.
+  <br>Потенциал движения: Высота от верхушки головы до шеи откладывается от уровня 
+  пробоя линии шеи в сторону, противоположную текущему тренду.
+</p>
+<img class="iview-image" data-iview height="118" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/head.jpg?raw=true">
+<p>
+  <strong>Двойная вершина/дно <em>(Double Top/Bottom)</em></strong>
+  <br>Как выглядит:  
+  <br>- Двойная вершина: Два максимума на одном уровне + пробой поддержки.  
+  <br>- Двойное дно: Два минимума на одном уровне + пробой сопротивления.
+  <br>Что означает: Неудачная попытка пробить уровень, часто влекущая за собой разворот.
+</p>
+<img class="iview-image" data-iview height="120" width="120" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/double.png?raw=true">
+<p>
+  <strong>Тройная вершина/дно <em>(Triple Top/Bottom)</em></strong>
+  <br>Как выглядит: Три попытки пробить уровень, после чего цена разворачивается.  
+  <br>Сильнее двойной вершины и двойного дна: Больше «тестов» уровня = сильнее сигнал.
+</p>
+<img class="iview-image" data-iview height="120" width="120" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/triple.png?raw=true">

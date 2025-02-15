@@ -1,0 +1,37 @@
+<h1>Простые модели из нескольких свечей</h1>
+
+<p>
+  <strong>2. Медвежьи модели (сигналы к падению)</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/down.png?raw=true">
+</p>
+<p>
+  <em>Повешенный (Hanging Man)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Похож на <em>«молот»</em>, но появляется после восходящего тренда.
+  <br>- Длинная нижняя тень, маленькое тело.
+  <br><strong>Что означает</strong>: Быки теряют контроль — медведи начинают атаковать. Сигнал к закрытию длинных позиций.
+  <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться ниже тела <em>«повешенного»</em>.
+</p>
+<img class="iview-image" data-iview height="130" width="140" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/hangingMan.png?raw=true">
+<p>
+  <em>Медвежье поглощение (Bearish Engulfing)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Первая свеча — бычья <em>(зелёная)</em>.
+  <br>- Вторая свеча — медвежья <em>(красная)</em>, её тело полностью перекрывает тело первой.
+  <br><strong>Где искать</strong>: На вершинах тренда или после резкого роста.
+  <br><strong>Что означает</strong>: Продавцы доминируют — пора фиксировать прибыль или открывать шорт.
+</p>
+<img height="100" width="100" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingDown.png?raw=true">
+<p>
+  <em>Падающая звезда (Shooting Star)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Маленькое тело <em>(красное или зелёное)</em>.
+  <br>- Длинная верхняя тень <em>(в 2-3 раза длиннее тела)</em>.
+  <br>- Нижняя тень отсутствует или короткая.
+  <br><strong>Где искать</strong>: После восходящего тренда.
+  <br><strong>Что означает</strong>: Быки пытались толкнуть цену вверх, но медведи отбросили её назад. Сигнал к коррекции.
+</p>
+<img height="120" width="120" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/starDown.png?raw=true">

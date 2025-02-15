@@ -1,0 +1,15 @@
+{
+  "question": "Какие из следующих инвесторов являются ключевыми для проекта Solana? Выберите все подходящие варианты.",
+  "options": [
+    "Multicoin Capital",
+    "Andreessen Horowitz (a16z)",
+    "Foundation Capital",
+    "Sino Global Capital",
+    "Coinbase Ventures"
+  ],
+  "answer": [
+    "Multicoin Capital",
+    "Foundation Capital",
+    "Sino Global Capital"
+  ]
+}

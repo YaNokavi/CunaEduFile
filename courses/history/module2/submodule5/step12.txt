@@ -1,0 +1,12 @@
+{
+  "question": "Какой проект стал первым в тренде 'кликеров' в Telegram в 2024 году?",
+  "options": [
+    "NotCoin",
+    "Blum",
+    "Hamster Kombat",
+    "Dogs"
+  ],
+  "answer": [
+    "NotCoin"
+  ]
+}

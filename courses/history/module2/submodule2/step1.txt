@@ -1,0 +1,11 @@
+<h1>Monero</h1>
+
+<p>
+  <img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule2/images/monero.png?raw=true">
+Основанная на протоколе анонимных платежей CryptoNote, криптовалюта Монеро <em>(XMR)</em> появилась 
+  <strong>весной 2014 года</strong> под названием <strong>BitMonero</strong> и была попыткой исправления изъянов Биткоина – 
+  легкости отслеживания транзакций и простоты деанонимизации владельцев криптовалюты. Известность 
+  к Монеро пришла <strong>в 2016 году</strong>, когда на волне популярности стоимость криптовалюты 
+  выросла почти на <em>2800%</em>, что сделало ее самым прибыльным активом в том году. 
+</p>

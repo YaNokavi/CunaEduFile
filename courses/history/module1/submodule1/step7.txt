@@ -1,0 +1,5 @@
+{
+  "question": "Какой проект был представлен Linux Foundation в 2015 году?",
+  "options": ["Ethereum", "Hyperledger", "Chainlink", "EOS"],
+  "answer": ["Hyperledger"]
+}

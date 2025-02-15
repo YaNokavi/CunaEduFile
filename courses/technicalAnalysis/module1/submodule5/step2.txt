@@ -1,0 +1,19 @@
+<h1>Что такое индекс страха и жадности?</h1>
+<p>
+  Индекс страха и жадности представляет собой числовой показатель, который колеблется в 
+  диапазоне от <em>0 до 100</em>. Он делится на несколько уровней:
+  <br><strong>• 1-24</strong>: Экстремальный страх
+  <br><strong>• 25-49</strong>: Страх
+  <br><strong>• 50</strong>: Нейтральное настроение
+  <br><strong>• 51-75</strong>: Жадность
+  <br><strong>• 76-100</strong>: Экстремальная жадность
+</p>
+<img height="150" width="180" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/feargreed.png?raw=true">
+<p>
+  Чем выше значение индекса, тем больше преобладает жадность на рынке; 
+  чем ниже — тем сильнее страх. Индекс рассчитывается на основе нескольких факторов, 
+  включая волатильность рынка, объем торгов, доминирование активов, настроение в 
+  социальных сетях и другие ключевые метрики.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/metric.png?raw=true">
+</p>

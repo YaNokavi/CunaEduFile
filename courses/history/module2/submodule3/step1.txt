@@ -1,0 +1,10 @@
+<h1>Tron</h1>
+
+<p>
+<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule3/images/tron.png?raw=true">
+  <strong>TRON</strong> — блокчейн-платформа, которая была основана в <strong>2017 году</strong> китайским предпринимателем 
+  <strong>Джастином Саном</strong>. Он ставил перед собой задачу запустить децентрализованную платформу 
+  для обмена развлекательным контентом, который создатели могли бы предлагать 
+  пользователям без вовлечения посредников в этот процесс.
+</p>

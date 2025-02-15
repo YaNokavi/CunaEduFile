@@ -1,0 +1,20 @@
+<h1>Ключевые инвесторы проекта</h1>
+<p>
+  Solana активно привлекает разработчиков и предпринимателей в свою экосистему через 
+  различные программы, такие как <strong>Solana Grants</strong> и <strong>Solana Hackathons</strong> <em>(хакатоны для 
+  разработки новых децентрализованных приложений и решений)</em>
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
+  Что касается ключевых инвесторов проекта, то к самым крупным из них можно отнести 
+  таких гигантов рынка, как:
+  <br><strong>1. Multicoin Capital</strong> <em>(венчурный фонд, который инвестирует в различные проекты в сфере 
+  блокчейн. Он стал одним из первых инвесторов Solana в 2018 году, присоединившись к 
+  проекту на ранней стадии его развития)</em>
+  <br><strong>2. Foundation Capital</strong> <em>(венчурный фонд, специализирующийся на ранних стадиях инвестиций в 
+  технологические стартапы)</em>
+  <br><strong>3. Sino Global Capital</strong> <em>(инвестиционный фонд, который сосредоточен на 
+  технологических компаниях и блокчейн-проектах)</em>
+</p>
+

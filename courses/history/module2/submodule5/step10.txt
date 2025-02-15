@@ -1,0 +1,21 @@
+<h1>Большие цели</h1>
+
+<p>
+  К <strong>концу 2023 года</strong> TON стал девятым по величине блокчейн-проектом по рыночной капитализации 
+  во всем мире. В ходе конференции <strong>Token2049</strong> в Дубае представители TON Foundation и Telegram 
+  заявили, что TON планирует привлечь <em>500 миллионов</em> новых пользователей в ближайшие 5 лет.
+</p>
+<p>
+  <strong>6 июня 2024 года</strong> Telegram внедрили <em>Telegram Stars</em>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/star.png?raw=true"> Одной из главных причин введения стало 
+  давление со стороны <em>Apple</em> и <em>Google</em>. Эти компании требуют, чтобы все встроенные покупки в 
+  приложениях проходили через их платежные системы, которые взимают комиссии. Telegram ранее использовал 
+  сторонние платежные системы для обхода правил, но после угрозы удаления приложения из магазинов 
+  было принято решение создать собственную валюту.
+</p>
+<p>
+  Также в течение <strong>2024 года</strong> случился резонанс <em>кликеров</em> в Telegram. Первым проектом, который задал этот 
+  тренд, был <strong>NotCoin</strong>. Далее появлялись и другие подобные проекты и 
+  среди них можно выделить <strong>Dogs</strong>, который также раздал деньги для пользователей.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule5/images/clicker.png?raw=true">
+</p>

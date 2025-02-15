@@ -1,0 +1,15 @@
+<h1>Шифрование с открытым ключом</h1>
+<p>
+  С <strong>1970-х годов</strong> началась новая эра криптографии с появлением методов 
+  шифрования с <em>открытым ключом</em>. В <strong>1976 году</strong> выходит работа <strong>Уитфилда Диффи</strong>
+  и <strong>Мартина Хеллмана</strong>, в которой был описан способ шифрования с открытым ключом. 
+  Первой криптосистемой с открытым ключом считается алгоритм <strong>RSA</strong>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule4/images/openKey.png?raw=true">
+</p>
+<p>
+  В <strong>1977 году</strong> был принят стандарт <strong>DES</strong> <em>(Data Encryption Standard)</em>, который стал 
+  основным стандартом шифрования для коммерческих приложений на многие годы. 
+  Он обеспечивал защиту данных в банковских и финансовых системах.
+</p>
+
+

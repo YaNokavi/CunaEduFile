@@ -1,0 +1,17 @@
+<h1>Продолжение развития</h1>
+<p>
+  После создания концепции PoH, Анатолий собрал команду единомышленников, включая <strong>Раджа Гокала</strong> 
+  <em>(бывший сотрудник Qualcomm и Google)</em> и <strong>Грега Фитцгеральда</strong> <em>(ранее работавшего в Intel и Google)</em>. 
+  Вместе они начали разработку первых версий Solana и провели успешное тестирование платформы.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/key.png?raw=true">
+</p>
+<p>
+  В <strong>2018 году</strong> проект провел первый раунд финансирования, который оказался более, чем успешным 
+  <em>(привлекли около <strong>$25 млн</strong>)</em>. Эти инвестиции помогли команде существенно ускорить разработку платформы. 
+  В 2020 году Solana запустила свою основную сеть <em>(Mainnet Beta)</em>, предоставив разработчикам 
+  возможность создавать и развертывать децентрализованные приложения на платформе. В этом же году проект 
+  провел продажу своего токена <strong>SOL</strong>, который используется для обеспечения сетевой безопасности и стейкинга.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/processing.png?raw=true">
+</p>
+
+

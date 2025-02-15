@@ -1,0 +1,12 @@
+{
+  "question": "Какое обновление Ethereum включало механизм снижения волатильности комиссий за транзакции?",
+  "options": [
+    "Berlin",
+    "London",
+    "Constantinople",
+    "Istanbul"
+  ],
+  "answer": [
+    "London"
+  ]
+}

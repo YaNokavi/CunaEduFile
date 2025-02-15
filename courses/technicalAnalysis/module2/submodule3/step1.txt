@@ -1,0 +1,8 @@
+<h1>Паттерны продолжения тренда</h1>
+
+<p>
+  <strong>Паттерны продолжения тренда</strong> — это <em>«паузы»</em> рынка перед новым рывком в том же направлении. 
+  Они говорят: <em>«Тренд жив, готовься к продолжению!»</em> Давайте разберем ключевые модели, 
+  которые помогут не выходить из сделки раньше времени и ловить вторую волну движения!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/net.png?raw=true">
+</p>

@@ -1,0 +1,29 @@
+<h1>Эволюция Monero</h1>
+<p>
+  Любая реально используемая цифровая валюта сталкивается с проблемой “раздувания” блокчейна, 
+  на котором она основана. Дело в увеличившемся количестве транзакций, для которых уже не хватает места в блоке. 
+  Это приводит к снижению скорости подтверждения транзакций и экспоненциальному росту сетевых комиссий.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule2/images/commission.png?raw=true">
+</p>
+<p>
+  Из-за необходимости скрывать сумму перевода, размер транзакции в Монеро до <strong>18 октября 2018</strong> 
+  года составлял около <em>12</em> килобайт. К тому времени блокчейн монеты раздулся до <strong>60 гигабайт</strong>. 
+  Но после активации <strong>18 октября</strong> нового протокола конфиденциальных транзакций <strong>Bulletproofs</strong> размер 
+  одной транзакции удалось сократить на целых <em>80%</em> – до примерно двух килобайт.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule2/images/like.png?raw=true">
+</p>
+<p>
+  Монета была основана на механизме консенсуса <strong>PoW</strong>. Рост популярности монеты закономерно вызвал к 
+  ней интерес гигантов майнинга, что привело к созданию в <strong>2018 году</strong> сразу двумя компаниями <em>(Baikal и Bitmain)</em> 
+  аппаратных устройств и стало причиной быстрой монополизации майнинга Монеро в руках нескольких 
+  крупных игроков этого рынка.
+</p>
+<p>
+  Монополизация майнинга сделала возможным атаку 51% на сеть криптовалюты. Чтобы предотвратить эту 
+  угрозу, разработчики сначала перешли на модифицированный алгоритм майнинга <strong>CryptoNightR</strong> в <strong>марте 
+  2019 года</strong>, а в декабре того же года – на разработанный с нуля алгоритм <strong>RandomX</strong>, который, как 
+  считается, навсегда покончил с майнингом Монеро на ASIC-устройствах.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule2/images/mining.png?raw=true">
+</p>
+
+

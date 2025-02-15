@@ -1,0 +1,10 @@
+<h1>Таймфреймы и их роль</h1>
+
+<p>
+  <strong>Таймфрейм</strong> — это не просто <em>«масштаб»</em> графика, а ключ к пониманию рыночного ритма. 
+  Он определяет, какую историю рассказывает цена: минутные импульсы или многомесячные 
+  тренды. Давайте разберемся, как выбрать подходящий таймфрейм и избежать ловушек 
+  из-за неправильного масштабирования!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/possibilities.png?raw=true">
+</p>
+

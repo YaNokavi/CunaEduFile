@@ -1,0 +1,39 @@
+<h1>Почему свечи так важны?</h1>
+<p>
+  <strong>Японские свечи</strong> — это не просто <em>«цветные прямоугольники»</em> на графике. Они 
+  работают как детектор рыночных эмоций, показывая, кто сейчас контролирует 
+  рынок: быки, медведи или нерешительные участники. Давайте разберемся, в чем 
+  их уникальная ценность для трейдеров!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/trend.png?raw=true">
+</p>
+<p style="text-align: center;">
+  <em>Визуальная наглядность: всё в одной свече</em>
+</p>
+<p>
+  Свечи упаковывают четыре ключевых параметра <em>(Open, Close, High, Low)</em> в понятную визуальную 
+  форму. Сравните с линейным графиком или барами:
+  <br><strong>•</strong> Линия показывает только Close.
+  <br><strong>•</strong> Бары — те же данные, но без «тела», что усложняет анализ.
+  <br><strong>•</strong> Свечи выделяют зоны Open/Close цветом, а тени сразу указывают на волатильность.
+</p>
+<p>
+  <strong>Пример</strong>:
+  <br>На дневном графике Ethereum вы видите длинную бычью свечу с маленькими тенями. 
+  Это сигнал: покупатели доминировали весь день, а сопротивление было минимальным.
+</p>
+<p style="text-align: center;">
+  <em>Свечи говорят на языке психологии рынка</em>
+</p>
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/time.png?raw=true">
+  Каждая свеча — это история битвы между страхом и жадностью:
+  <br><strong>•</strong> Длинное тело (например, зелёное): покупатели агрессивно толкают цену вверх — рынок уверен в росте.
+  <br><strong>•</strong> Маленькое тело + длинные тени: борьба быков и медведей. Цена металась, но закрылась рядом с открытием — неопределенность.
+  <br><strong>•</strong> Свеча без тела (Доджи): никто не смог взять контроль. Часто предвещает разворот.
+</p>
+<p>
+  <em>Совет</em>: Смотрите на свечи в контексте тренда. Например, Доджи 
+  после долгого роста — сигнал к паузе или коррекции.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/graphic.png?raw=true">
+</p>

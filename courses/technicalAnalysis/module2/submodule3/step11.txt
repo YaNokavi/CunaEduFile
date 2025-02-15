@@ -1,0 +1,28 @@
+<h1>Основные паттерны разворота</h1>
+
+<p>
+  <strong>Утренняя/Вечерняя звезда <em>(Morning/Evening Star)</em></strong>
+  <br>Как выглядит:  
+  <br>- Утренняя звезда <em>(разворот вверх)</em>: Длинная медвежья свеча → маленькая свеча (доджи или тело) → длинная бычья.  
+  <br>- Вечерняя звезда <em>(разворот вниз)</em>: Длинная бычья свеча → маленькая свеча → длинная медвежья.
+  <br>Что означает: Смена доминирования быков/медведей.
+</p>
+<img height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/stars.jpg?raw=true">
+<p>
+  <strong>Бриллиант <em>(Diamond Top/Bottom)</em></strong>
+  <br>Как выглядит: Сужающийся диапазон колебаний в форме ромба.
+  <br>Где искать: На вершине <em>(бриллиант-топ)</em> или впадине <em>(бриллиант-дно)</em>.
+  <br>Что означает: Накопление перед резким разворотом.
+</p>
+<img class="iview-image" data-iview height="100" width="150" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/brilliant.png?raw=true">
+<p>
+  <strong>Перевернутый молот/Падающая звезда</strong>
+  <br>Перевернутый молот <em>(Inverted Hammer)</em>: Похож на молот, но с длинной 
+  верхней тенью. Появляется после падения → сигнал разворота вверх.  
+  Падающая звезда <em>(Shooting Star)</em>: Длинная верхняя тень, появляется 
+  после роста → сигнал разворота вниз.
+</p>
+<img height="100" width="100" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/molot.png?raw=true">

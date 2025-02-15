@@ -1,0 +1,9 @@
+<h1>История становления свечного анализа</h1>
+
+<p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule2/images/japansvechi.png?raw=true">
+  Многие слышали о <strong>"японских свечах"</strong>, но немногие знают историю их появления. 
+  Эти свечи не случайно связаны с Японией. В этой части курса вы узнаете, 
+  откуда берет начало свечной анализ и кто стоял у его истоков.
+</p>

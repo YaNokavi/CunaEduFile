@@ -1,0 +1,9 @@
+<h1>Основы японских свечей</h1>
+
+<p>
+  <em>Торговля на финансовых рынках</em> — это язык графиков, а японские свечи — его алфавит. 
+  Понимание свечей помогает <em>«читать»</em> рыночные эмоции и предугадывать движения цены. 
+  Давайте разберемся, как устроены свечи, какие сигналы они подают и как использовать 
+  их для принятия решений!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/analyse.png?raw=true">
+</p>

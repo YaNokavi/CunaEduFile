@@ -1,0 +1,42 @@
+<h1>Что такое таймфрейм?</h1>
+<p>
+  <strong>Таймфрейм</strong> — это временной интервал, который формирует одну свечу на графике. Например:  
+  <br>- 1 минута: Каждая свеча отражает цену за 60 секунд.  
+  <br>- 4 часа <em>(4H)</em>: Свеча формируется за 4 часа торгов.  
+  <br>- 1 день <em>(D)</em>: Свеча показывает данные за сутки.  
+</p>
+<p>
+  <em>Важно</em>: Чем больше таймфрейм, тем меньше <em>«шума»</em> и значимее паттерны!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/level.png?raw=true">
+</p>
+<h2 style="text-align: center;">
+  <strong>Виды таймфреймов и их применение</strong>
+</h2>
+<p>
+  <strong>1. Короткие</strong> <em>(1 мин – 15 мин)</em>
+  <br>Для кого: Скальперы, арбитражеры.  
+  <br>Особенности:  
+  <br>- Много случайных колебаний <em>(«шум»)</em>.  
+  <br>- Подходят для быстрых сделок <em>(от нескольких секунд до часа)</em>.  
+  <br>- Высокий стресс — требуется постоянное внимание.  
+  <br><em>Пример</em>: На 5-минутном графике можно ловить микрооткаты внутри дня.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/demotion.png?raw=true">
+</p>
+<p>
+  <strong>2. Средние</strong> <em>(1 час – 4 часа)</em>
+  <br>Для кого: Внутридневные трейдеры <em>(дейтрейдеры)</em>.  
+  <br>Особенности:  
+  <br>- Баланс между детализацией и стабильностью сигналов.  
+  <br>- Паттерны уже имеют смысл, но требуют подтверждения.  
+  <br><em>Пример</em>: 4H график помогает определить дневной тренд и точки входа.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/trend.png?raw=true">
+</p>
+<p>
+  <strong>3. Долгосрочные</strong> <em>(День – Неделя – Месяц)</em>
+  <br>Для кого: Инвесторы, свинг-трейдеры.  
+  <br>Особенности:  
+  <br>- Показывают глобальные тренды и ключевые уровни.  
+  <br>- Минимум ложных сигналов, но медленная реакция на изменения.  
+  <br><em>Пример</em>: Недельный график помогает оценить многомесячный тренд.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/big.png?raw=true">
+</p>

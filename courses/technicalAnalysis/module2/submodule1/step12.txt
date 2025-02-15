@@ -1,0 +1,15 @@
+{
+  "question": "Что означает паттерн Бычье поглощение?",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingUp.png?raw=true",
+    "height": 100,
+    "width": 100
+  },
+  "options": [
+    "Слабость быков и возможное продолжение падения",
+    "Сильный бычий импульс и сигнал к покупке",
+    "Неопределенность на рынке",
+    "Завершение восходящего тренда"
+  ],
+  "answer": ["Сильный бычий импульс и сигнал к покупке"]
+}

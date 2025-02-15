@@ -1,0 +1,19 @@
+<h1>Переход к PoS</h1>
+
+<p>
+  <strong>Летом в 2022 году</strong> был добыт <em>последний</em> Toncoin. TON перешел от механизма консенсуса 
+  <strong>Proof of Work</strong> <em>(PoW)</em> к <strong>Proof of Stake</strong> <em>(PoS)</em>. Этот переход улучшил эффективность сети, 
+  снизив потребление энергии и увеличив скорость обработки транзакций.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule1/images/update.png?raw=true">
+</p>
+<p>
+  В <strong>августе 2023 года</strong> на конференции Token 2049 команда Telegram анонсировала <em>запуск 
+  криптовалютного кошелька</em> на базе сети TON. Это нововведение открыло доступ к криптовалютным 
+  услугам для более чем 800 миллионов пользователей Telegram.
+</p>
+<p>
+  В <strong>сентябре 2023 года MEXC Ventures</strong> объявила о стратегических инвестициях в TON с 
+  целью совместного изучения развития всей экосистемы блокчейн, что также поспособствовало 
+  росту пользователей экосистемы.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
+</p>

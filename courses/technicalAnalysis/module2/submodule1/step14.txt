@@ -1,0 +1,15 @@
+{
+  "question": "Какая модель изображена на картинке?",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/pincetTest.jpg?raw=true",
+    "height": 100,
+    "width": 100
+  },
+  "options": [
+    "Доджи", 
+    "Харами", 
+    "Пинцет", 
+    "Повешенный"
+  ],
+  "answer": ["Пинцет"]
+}

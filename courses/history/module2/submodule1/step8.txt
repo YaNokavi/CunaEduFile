@@ -1,0 +1,12 @@
+{
+  "question": "Какой язык программирования был создан для разработки смарт-контрактов на платформе Ethereum?",
+  "options": [
+    "Vyper",
+    "Solidity",
+    "JavaScript",
+    "Python"
+  ],
+  "answer": [
+    "Solidity"
+  ]
+}

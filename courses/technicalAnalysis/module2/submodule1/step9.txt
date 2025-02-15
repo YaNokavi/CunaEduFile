@@ -1,0 +1,33 @@
+<h1>Простые модели из нескольких свечей</h1>
+
+<p>
+  Свечные паттерны из одной или двух свечей — это азбука трейдера. Они 
+  быстро сигнализируют о смене настроения рынка или продолжении тренда. 
+  Давайте разберем ключевые модели, которые должен знать каждый!
+</p>
+<p>
+  <strong>1. Бычьи модели (сигналы к росту)</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/upCandle.png?raw=true">
+</p>
+<p>
+  <em>Молот (Hammer)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Маленькое тело <em>(зелёное или красное)</em>.  
+  <br>- Длинная нижняя тень <em>(минимум в 2-3 раза длиннее тела)</em>.  
+  <br>- Верхняя тень отсутствует или очень короткая.  
+  <br><strong>Где искать</strong>: После нисходящего тренда.  
+  <br><strong>Что означает</strong>: Медведи пытались толкнуть цену вниз, но быки перехватили контроль и закрыли свечу вверху. Сигнал разворота вверх.  
+  <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться выше тела <em>«молота»</em>.
+</p>
+<img height="120" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/molot.jpg?raw=true">
+<p>
+  <em>Бычье поглощение (Bullish Engulfing)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Первая свеча — медвежья <em>(красная)</em>.  
+  <br>- Вторая свеча — бычья <em>(зелёная)</em>, её тело полностью перекрывает тело первой.
+  <br><strong>Где искать</strong>: В конце коррекции или нисходящего тренда.  
+  <br><strong>Что означает</strong>: Бычий импульс настолько силён, что перекрывает предыдущее падение. Сигнал к покупке.
+</p>
+<img height="100" width="100" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingUp.png?raw=true">

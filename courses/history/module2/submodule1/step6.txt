@@ -1,0 +1,21 @@
+<h1>Смарт-контракты</h1>
+
+<p>
+  Самым интересным в эфире являются <strong>смарт-контракты</strong>, которые являются основными системными 
+  блоками приложений Ethereum. Смарт-контракты оцифровывают договоренности, превращая условия 
+  в код, который автоматически выполняется, когда условия контракта соблюдены. Данный термин 
+  придумал <strong>Ник Сабо</strong>. Для разработки смарт-контрактов <strong>Гэвином Вудом</strong> был создан язык программирования <strong>Solidity</strong>, 
+  позже был разработан язык программирования <strong>Vyper</strong> для решения проблем безопасности, которые были в Solidity.<img style="vertical-align: middle" height=40 width=60 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule1/images/programming.png?raw=true">
+</p>
+<p>
+  На платформе Ethereum смарт-контракты являются необходимым элементом для обеспечения функционирования 
+  децентрализованных проектов без контролирующих органов <em>(dapps, DeFi, DAO)</em>. Технология блокчейна обеспечивает 
+  неизменность правил и соглашений.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/smartcontract.png?raw=true">
+</p>
+
+
+
+
+
