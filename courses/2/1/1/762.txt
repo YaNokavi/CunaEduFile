@@ -1,4 +1,1 @@
-{ 
-answer: "asdasdsad",
-option: "hghghg"
-}
+"{ \nanswer: \"asdasdsad\",\noption: \"hghghg\"\n}"
