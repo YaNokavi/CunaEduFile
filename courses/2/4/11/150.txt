@@ -1,5 +1,5 @@
 {
-  "question": "sad",
+  "question": "Какой алгоритм был внедрен в Монеро в декабре 2019 года для защиты от ASIC-майнинга?",
   "options": [
     "CryptoNightR",
     "RandomX",
