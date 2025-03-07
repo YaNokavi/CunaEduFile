@@ -2,8 +2,8 @@
   "question": "sadasd",
   "options": [
     "adds",
-    "sadadsadasdad",
-    "qwerty"
+    "sadadsad",
+    "awe"
   ],
   "answer": [
     "adds"
