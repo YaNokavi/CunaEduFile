@@ -3,7 +3,7 @@
   "options": [
     "sadasds",
     "Assad",
-    "djhsjdhgjhaksuhmauhadskdhs"
+    "djhsjd"
   ],
   "answer": [
     "Assad"
