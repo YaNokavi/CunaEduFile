@@ -3,7 +3,7 @@
   "options": [
     "adds",
     "sadadsadasdad",
-    "qwerty"
+    "qwer"
   ],
   "answer": [
     "adds"
