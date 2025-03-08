@@ -6,7 +6,8 @@
 
 <p>&bull; Ждем формирования коррекции (флага) &mdash; зоны консолидации с четкими уровнями поддержки и сопротивления.</p>
 
-<p>(КАРТИНКА КРЮК РОССА. НАШЛИ ДВИЖЕНИЕ)</p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/KrukRossaFound.png" style="height:116px; width:150px" /><br />
+&nbsp;</p>
 
 <p>2. Мониторинг пробоя:</p>
 
@@ -28,13 +29,9 @@
 
 <p>Стоп лосс можно поставить за предыдущий минимум (лой) перед пробоем уровня</p>
 
-<p>(КАРТИНКА КРЮК РОССА. МОНИТОРИНГ ПРОБОЯ)</p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/KrukRossaMonitoring.png" style="height:99px; width:150px" /></p>
 
 <p>Точки входа отмечены белыми кругами. Stop-loss отмечен красной горизонтальной линией</p>
 
-<p>&nbsp;</p>
-
-<p>Результат сделки:</p>
-
-<p>(КРЮК РОССА. РЕЗУЛЬТАТ СДЕЛКИ)<br />
-&nbsp;</p>
+<p>Результат сделки:<br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/KrukRossaResult.png" style="height:101px; width:150px" /></p>
