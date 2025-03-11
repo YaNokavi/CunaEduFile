@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" class="iview-image" style="height:75px; width:150px" /><br />
+<p><img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" style="height:75px; width:150px; align-self:center" /><br />
 <br />
 <strong>1.</strong> <strong>Аккумуляция: Накопление позиций</strong></p>
 
