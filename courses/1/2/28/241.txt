@@ -3,4 +3,8 @@
 <p><br />
 Зачастую крупные игроки манипулируют ценами, чтобы заработать на действиях розничных трейдеров. Эти манипуляции формируют три ключевые фазы: аккумуляция, манипуляция, дистрибуция. Понимание этих этапов поможет вам избежать ловушек и принимать рациональные решения</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" style="height:75px; width:150px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" style="height:75px; width:150px" /><br />
+<br />
+Пример паттера на графике:<br />
+<br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/AMD_example.png" style="height:116px; width:150px" /></p>
