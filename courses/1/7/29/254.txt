@@ -4,7 +4,7 @@
 <br />
 Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже<br />
 <br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReaction.jpeg" style="height:114px; width:150px" /><br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeReaction.jpeg" style="height:114px; width:150px" /><br />
 <br />
 Объемный уровень отмечен желтой горизонтальной линией. Видим, что довольно часто цена давала на него реакцию. Давайте разберемся, как их находить и использовать в торговле!<br />
 <br />
@@ -15,26 +15,26 @@
 Шаги:</p>
 
 <p>1.Находим консолидацию на графике. Важно, чтоб консолидация была сформирована до конца, то есть цена уже вышла из консолидации в любую из сторон<br />
-<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/ConsolidationExample1.jpeg" style="height:114px; width:150px" /><br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/ConsolidationExample1.jpeg" style="height:114px; width:150px" /></p>
 
-<p>2.Выбираем инструмент Fixed Range Volume Profile</p>
-
-<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/FixedProfileVolumeRange.jpeg" style="height:114px; width:150px" /><br />
+<p>2.Выбираем инструмент Fixed Range Volume Profile<br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/FixedProfileVolumeRange.jpeg" style="height:114px; width:150px" /></p>
 
 <p>3.Выделяем диапазон:</p>
 
+<p>&nbsp;</p>
+
 <ul>
 	<li>Первая точка &mdash; начало консолидации.</li>
-	<li>Вторая точка &mdash; конец консолидации. </li>
+	<li>Вторая точка &mdash; конец консолидации.</li>
 </ul>
 
-<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" /><br />
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" /></p>
 
 <p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом (я использую horizontal ray)<br />
 <br />
 <img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReady.jpeg" style="height:114px; width:150px" /><br />
 <br />
 Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями&nbsp;</p>
+
+<p>&nbsp;</p>
