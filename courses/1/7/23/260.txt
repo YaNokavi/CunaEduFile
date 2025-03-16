@@ -12,7 +12,8 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/23/images/lev
 
 <p>Уровни поддержки и сопротивления также имеют психологическое значение. Трейдеры 
 часто помнят эти уровни и могут принимать решения на основе них, что может усилить 
-реакцию цены при достижении таких уровней.</p>
+реакцию цены при достижении таких уровней.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/23/images/achievement.png?raw=true"></p>
 
 <h3 style="align-self: center;">Динамика рыночных настроений</h3>
 
