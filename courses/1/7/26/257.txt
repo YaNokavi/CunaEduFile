@@ -11,7 +11,7 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/imp
 	
 </p>
 
-<h3 style="align-self: center;">Психологические аспекты<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/psihology.png?raw=true"></h3>
+<h3 style="align-self: center;">Психологические аспекты</h3>
 
-<p>Объемные уровни также имеют <strong>психологическое значение</strong>. Трейдеры часто помнят эти уровни и могут принимать решения на основе них, что может усилить реакцию цены при достижении таких уровней.</p>
+<p><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/psihology.png?raw=true">Объемные уровни также имеют <strong>психологическое значение</strong>. Трейдеры часто помнят эти уровни и могут принимать решения на основе них, что может усилить реакцию цены при достижении таких уровней.</p>
