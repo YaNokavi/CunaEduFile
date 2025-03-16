@@ -8,16 +8,16 @@
 
 <p><strong>Пример построения уровней тренда</strong></p>
 
-<p>На скриншоте ниже мы видим зародившийся восходящий тренд (уже по первым двум касаниям наклонной можем строить уровень и ждать отработки. Если она, конечно, произойдет), проводим уровень по минимумам графика, он и будет уровнем поддержки</p>
+<p>На скриншоте ниже мы видим зародившийся восходящий тренд <em>(уже по первым двум касаниям наклонной можем строить уровень и ждать отработки. Если она, конечно, произойдет)</em>, проводим уровень по минимумам графика, он и будет уровнем поддержки.</p>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/SupportLevel.jpeg" style="height:90px; width:150px" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/SupportLevel.jpeg" style="height:90px; width:150px; align-self: center;" />
 
-<p>Очень часто бывает такое, что уровни поддержки и сопротивления параллельны, поэтому, чтобы определить потенциальный уровень поддержки / сопротивления, нам будет достаточно провести только один уровень, второй проводится параллельно первому</p>
+<p>Очень часто бывает такое, что уровни поддержки и сопротивления параллельны, поэтому, чтобы определить потенциальный уровень поддержки/сопротивления, нам будет достаточно провести только один уровень, второй проводится параллельно первому.</p>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ParallelLevelsExample.png" style="height:113px; width:150px" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ParallelLevelsExample.png" style="height:113px; width:150px; align-self: center;" />
 
-<p>Удобный инструмент для построения параллельных уровней тренда вы можете увидеть на приложенном ниже скриншоте. Для анализа графиков использую платформу TradingView</p>
+<p>Удобный инструмент для построения параллельных уровней тренда вы можете увидеть на приложенном ниже скриншоте. Для анализа графиков использую платформу <strong>TradingView</strong>.</p>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ToolForLevelDrawing.jpeg" style="height:150px; width:101px" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ToolForLevelDrawing.jpeg" style="height:150px; width:101px; align-self: center;" />
 
-<p>Если же построить второй уровень параллельно первому не получается, тогда придется строить его вручную ровно по тому же принципу, по которому строили первый Из-за того, что наклонные уровни гораздо субъективнее, чем горизонтальные, работают они гораздо менее ювелирно: зачастую бывают ложные пробои.</p>
+<p>Если же построить второй уровень параллельно первому не получается, тогда придется строить его вручную ровно по тому же принципу, по которому строили первый. Из-за того, что наклонные уровни гораздо субъективнее, чем горизонтальные, работают они гораздо менее ювелирно: зачастую бывают ложные пробои.</p>
