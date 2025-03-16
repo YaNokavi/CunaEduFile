@@ -2,7 +2,8 @@
 
 <p>Объемные уровни &mdash; это <strong>ключевые зоны</strong>, где цена актива встречает максимальную активность 
 трейдеров. Они показывают, на каких уровнях было заключено больше всего сделок, а 
-значит &mdash; где рынок <em>"запомнил"</em> цену.</p>
+значит &mdash; где рынок <em>"запомнил"</em> цену.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/memory.png?raw=true"></p>
 
 <p>Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже:</p>
 
@@ -13,7 +14,8 @@
 
 <h3 style="align-self: center;">Как находить и строить объемные уровни?</h3>
 
-<p><strong>Инструмент:</strong> Для построения можно использовать <strong>Fixed Range Volume Profile</strong> в <strong>TradingView</strong>.</p>
+<p><strong>Инструмент:</strong> Для построения можно использовать <strong>Fixed Range Volume Profile</strong> в <strong>TradingView</strong>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/tool.png?raw=true"></p>
 
 <p><strong>Шаги:</strong></p>
 
@@ -36,4 +38,5 @@
 
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeLevelReady.jpeg" style="height:114px; width:150px; align-self: center;" />
 
-<p>Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями!</p>
+<p>Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/solution.png?raw=true"></p>
