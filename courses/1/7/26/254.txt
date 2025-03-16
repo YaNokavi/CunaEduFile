@@ -1,40 +1,39 @@
-<p><strong>Объемные уровни &nbsp;</strong><br />
-<br />
-Объемные уровни &mdash; это ключевые зоны, где цена актива встречает максимальную активность трейдеров. Они показывают, на каких уровнях было заключено больше всего сделок, а значит &mdash; где рынок &laquo;запомнил&raquo; цену.<br />
-<br />
-Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже<br />
-<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeReaction.jpeg" style="height:114px; width:150px" /><br />
-<br />
-Объемный уровень отмечен желтой горизонтальной линией. Видим, что довольно часто цена давала на него реакцию. Давайте разберемся, как их находить и использовать в торговле!<br />
-<br />
-<strong>Как находить и строить объемные уровни?</strong><br />
-<br />
-Инструмент: Для построения можно использовать Fixed Range Volume Profile в TradingView.<br />
-<br />
-Шаги:</p>
+<h1>Объемные уровни</h1>
 
-<p>1.Находим консолидацию на графике. Важно, чтоб консолидация была сформирована до конца, то есть цена уже вышла из консолидации в любую из сторон<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ConsolidationExample1.jpeg" style="height:114px; width:150px" /></p>
+<p>Объемные уровни &mdash; это <strong>ключевые зоны</strong>, где цена актива встречает максимальную активность 
+трейдеров. Они показывают, на каких уровнях было заключено больше всего сделок, а 
+значит &mdash; где рынок <em>"запомнил"</em> цену.</p>
 
-<p>2.Выбираем инструмент Fixed Range Volume Profile<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/FixedProfileVolumeRange.jpeg" style="height:114px; width:150px" /></p>
+<p>Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже:</p>
+
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeReaction.jpeg" style="height:114px; width:150px; align-self: center;" /><br />
+
+<p>Объемный уровень <em>(отмечен желтой горизонтальной линией)</em>. Видим, что довольно часто цена 
+давала на него реакцию. Давайте разберемся, как их находить и использовать в торговле!</p>
+
+<h3 style="align-self: center;">Как находить и строить объемные уровни?</h3>
+
+<p><strong>Инструмент:</strong> Для построения можно использовать <strong>Fixed Range Volume Profile</strong> в <strong>TradingView</strong>.</p>
+
+<p><strong>Шаги:</strong></p>
+
+<p>1.Находим <strong>консолидацию</strong> на графике. Важно, чтобы консолидация была сформирована до конца, то есть цена уже вышла из консолидации в любую из сторон.</p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ConsolidationExample1.jpeg" style="height:114px; width:150px; align-self: center;" />
+
+<p>2.Выбираем инструмент <strong>Fixed Range Volume Profile</strong></p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/FixedProfileVolumeRange.jpeg" style="height:114px; width:150px; align-self: center;" />
 
 <p>3.Выделяем диапазон:</p>
-
-<p>&nbsp;</p>
 
 <ul>
 	<li>Первая точка &mdash; начало консолидации.</li>
 	<li>Вторая точка &mdash; конец консолидации.</li>
 </ul>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" /></p>
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" />
 
-<p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом (я использую horizontal ray)<br />
-<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReady.jpeg" style="height:114px; width:150px" /><br />
-<br />
-Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями&nbsp;</p>
+<p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом <em>(я использую horizontal ray)</em></p>
 
-<p>&nbsp;</p>
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReady.jpeg" style="height:114px; width:150px" />
+
+<p>Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями!</p>
