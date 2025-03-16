@@ -1,37 +1,34 @@
-<p><strong>Стратегия входа в сделки с использованием Крюка Росса:</strong></p>
+<h1><strong>Стратегия входа в сделки с использованием Крюка Росса</h1>
 
-<p>1. Определение тренда и коррекции:</p>
+<p><strong>1. Определение тренда и коррекции:</strong></p>
 
-<p>&bull; На старшем таймфрейме (например, недельном) находим трендовое движение.</p>
+<p>&bull; На старшем таймфрейме <em>(например, недельном)</em> находим трендовое движение.</p>
 
-<p>&bull; Ждем формирования коррекции (флага) &mdash; зоны консолидации с четкими уровнями поддержки и сопротивления.</p>
+<p>&bull; Ждем формирования коррекции <em>(флага)</em> &mdash; зоны консолидации с четкими уровнями поддержки и сопротивления.</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaFound.png" style="height:116px; width:150px" /><br />
-&nbsp;</p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaFound.png" style="height:116px; width:150px; align-self: center" />
 
-<p>2. Мониторинг пробоя:</p>
+<p><strong>2. Мониторинг пробоя:</strong></p>
 
-<p>&bull; Переходим на младший таймфрейм (я предпочитаю выбирать на 1 меньше, чем текущий) для точного определения момента пробоя. Если вы рассматриваете движение на дневном таймфрейме, то мониторить пробой можно на 4-ёх часовом таймфрейме.</p>
+<p>&bull; Переходим на младший таймфрейм <em>(я предпочитаю выбирать на 1 меньше, чем текущий)</em> для точного определения момента пробоя. Если вы рассматриваете движение на дневном таймфрейме, то мониторить пробой можно на 4-ёх часовом таймфрейме.</p>
 
 <p>&bull; Критерии пробоя:</p>
 
-<p>&nbsp;&nbsp; &nbsp; ◦ Закрытие свечи за уровнем сопротивления флага.</p>
+<p>&nbsp;&nbsp; &nbsp; &bull; Закрытие свечи за уровнем сопротивления флага.</p>
 
-<p>&nbsp;&nbsp; &nbsp; ◦ Желательно 3 и более свечей, закрытых выше уровня (для снижения риска ложного пробоя).</p>
+<p>&nbsp;&nbsp; &nbsp; &bull; Желательно 3 и более свечей, закрытых выше уровня <em>(для снижения риска ложного пробоя)</em>.</p>
 
-<p>&nbsp;</p>
+<p><strong>3. Вход в сделку:</strong></p>
 
-<p>3. Вход в сделку:</p>
+<p>&bull; Первую часть позиции можно начинать набирать при откате цены к пробитому уровню сопротивления после того, как увидим тестирование <em>(возврат цены)</em> уровня с последующим отскоком <em>(теперь он становится поддержкой)</em></p>
 
-<p>&bull; Первую часть позиции можно начинать набирать при откате цены к пробитому уровню сопротивления после того, как увидим тестирование (возврат цены) уровня с последующим отскоком (теперь он становится поддержкой)</p>
-
-<p>&bull; Вторую часть позиции открываем при пробое предыдущего максимума (хая) &mdash; это и есть Крюк Росса.</p>
+<p>&bull; Вторую часть позиции открываем при пробое предыдущего максимума <em>(хая)</em> &mdash; это и есть <strong>Крюк Росса</strong>.</p>
 
 <p>Стоп лосс можно поставить за предыдущий минимум (лой) перед пробоем уровня</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaMonitoring.png" style="height:99px; width:150px" /></p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaMonitoring.png" style="height:99px; width:150px; align-self: center" />
 
 <p>Точки входа отмечены белыми кругами. Stop-loss отмечен красной горизонтальной линией</p>
 
-<p>Результат сделки:<br />
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaResult.png" style="height:101px; width:150px" /></p>
+<p><strong>Результат сделки:</strong></p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaResult.png" style="height:101px; width:150px; align-self: center" />
