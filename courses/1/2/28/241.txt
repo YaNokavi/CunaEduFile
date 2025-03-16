@@ -5,8 +5,8 @@
 Эти манипуляции формируют три ключевые фазы: <strong>аккумуляция</strong>, <strong>манипуляция</strong>, <strong>дистрибуция</strong>. Понимание 
 этих этапов поможет вам избежать ловушек и принимать рациональные решения.</p>
 
-<p><img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" style="height:75px; width:150px align-self: center;" /><br />
-<br />
-Пример паттерна на графике:<br />
-<br />
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/AMD_example.png" style="height:116px; width:150px align-self: center;" /></p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/Pattern_AMD.jpeg" style="height:100px; width:200px align-self: center;" />
+<p>
+Пример паттерна на графике:
+</p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/2/28/images/AMD_example.png" style="height:140px; width:200px align-self: center;" />
