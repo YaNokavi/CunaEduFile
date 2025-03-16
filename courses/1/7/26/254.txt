@@ -7,7 +7,7 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/mem
 
 <p>Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже:</p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeReaction.jpeg" style="height:114px; width:150px; align-self: center;" /><br />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeReaction.jpeg" style="height:153px; width:200px; align-self: center;" />
 
 <p>Объемный уровень <em>(отмечен желтой горизонтальной линией)</em>. Видим, что довольно часто цена 
 давала на него реакцию. Давайте разберемся, как их находить и использовать в торговле!</p>
@@ -20,10 +20,10 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/too
 <p><strong>Шаги:</strong></p>
 
 <p>1.Находим <strong>консолидацию</strong> на графике. Важно, чтобы консолидация была сформирована до конца, то есть цена уже вышла из консолидации в любую из сторон.</p>
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ConsolidationExample1.jpeg" style="height:114px; width:150px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ConsolidationExample1.jpeg" style="height:153px; width:200px; align-self: center;" />
 
 <p>2.Выбираем инструмент <strong>Fixed Range Volume Profile</strong></p>
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/FixedProfileVolumeRange.jpeg" style="height:114px; width:150px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/FixedProfileVolumeRange.jpeg" style="height:153px; width:75px; align-self: center;" />
 
 <p>3.Выделяем диапазон:</p>
 
