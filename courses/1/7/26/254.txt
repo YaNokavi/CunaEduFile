@@ -30,10 +30,10 @@
 	<li>Вторая точка &mdash; конец консолидации.</li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px" />
 
 <p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом <em>(я использую horizontal ray)</em></p>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReady.jpeg" style="height:114px; width:150px" />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeLevelReady.jpeg" style="height:114px; width:150px" />
 
 <p>Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями!</p>
