@@ -32,11 +32,11 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/too
 	<li>Вторая точка &mdash; конец консолидации.</li>
 </ul>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VidelenieDiapozona.jpeg" style="height:114px; width:150px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VidelenieDiapozona.jpeg" style="height:153px; width:200px; align-self: center;" />
 
 <p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом <em>(я использую horizontal ray)</em></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeLevelReady.jpeg" style="height:114px; width:150px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeLevelReady.jpeg" style="height:153px; width:200px; align-self: center;" />
 
 <p>Важно понимать, что объемы не всегда отрабатывают ювелирно, так что никогда не торопитесь с решениями!<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/solution.png?raw=true"></p>
