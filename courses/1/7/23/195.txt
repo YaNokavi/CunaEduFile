@@ -2,25 +2,28 @@
 
 <p>Эта тема &mdash; <strong>фундамент технического анализа</strong> на любых рынках, включая криптовалюты. Уровни помогают находить 
 <strong>точки входа</strong>, <strong>ставить стоп-лоссы</strong> и <strong>прогнозировать движение цены</strong>. Давайте научимся их 
-строить правильно, даже если цена не идеально <em>"слушается"</em> одной линии!</p>
+строить правильно, даже если цена не идеально <em>"слушается"</em> одной линии!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/23/images/listen.png?raw=true"></p>
 
-<p><strong>1. Что такое уровни поддержки и сопротивления? </strong></p>
+<p><strong>1. Что такое уровни поддержки и сопротивления?</strong></p>
 
 <ul>
 	<li><strong>Поддержка</strong> &mdash; зона, где покупатели поддерживают цену снизу.</li>
 	<li><strong>Сопротивление</strong> &mdash; зона, где продавцы останавливают рост цены.</li>
 </ul>
 
-<p><strong>2. Почему уровни &mdash; это зоны?</strong></p>
+<p><strong>2. Почему уровни &mdash; это зоны?</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/23/images/zone.png?raw=true"></p>
 
 <p>Рынок редко двигается с ювелирной точностью. Цена может отскочить от уровня с 
 небольшим <em>"зазором"</em>, поэтому вместо одной линии лучше выделять диапазон.</p>
 
-<p><strong>3. Построение уровней давайте рассмотрим на реальном примере.</strong></p>
+<p><strong>3. Давайте рассмотрим на реальном примере построение уровней.</strong></p>
 
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/23/images/HorizontalLevels.jpeg" style="height:147px; width:250px; align-self: center;" />
 
 <p>Мы видим, что цена дважды отскочила наверх от одного диапазона <em>(отмечен зеленым прямоугольником)</em>, 
 проводим <strong>зону поддержки</strong>. Видим, что когда в 3 раз цена пришла к той же зоне, она 
 вновь дала реакцию наверх. Аналогично и с <strong>уровнем сопротивления</strong> <em>(выделен красным квадратом)</em>. 
-Видим, что цена часто отскакивает вниз после достижения некоторой зоны - выделяем ее. Все довольно просто!</p>
+Видим, что цена часто отскакивает вниз после достижения некоторой зоны - выделяем ее. Все довольно просто!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/23/images/idea.png?raw=true"></p>
