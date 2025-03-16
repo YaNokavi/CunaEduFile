@@ -1,6 +1,7 @@
 <h1>Как использовать это в торговле?</h1>
 
-<p><strong>1. Манипуляция:</strong></p>
+<p><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/2/28/images/manipulation.png?raw=true"><strong>1. Манипуляция:</strong></p>
 
 <p>&bull; Не доверяйте первым пробоям &mdash; ждите подтверждения <em>(например, закрытие свечи за уровнем + объем)</em></p>
 
@@ -12,7 +13,8 @@
 
 <p>&bull; Ищите дивергенции &mdash; это сигнал к развороту</p>
 
-<p><strong>3. Правила, чтобы не стать жертвой</strong></p>
+<p><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/2/28/images/mistake.png?raw=true"><strong>3. Правила, чтобы не стать жертвой</strong></p>
 
 <p>&bull; Не торгуйте на эмоциях <em>(FOMO, страх, жадность)</em></p>
 
