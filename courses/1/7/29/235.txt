@@ -31,11 +31,9 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/lie
 
 <p>&bull; Вторую часть позиции открываем при пробое предыдущего максимума <em>(хая)</em> &mdash; это и есть <strong>Крюк Росса</strong>.</p>
 
-<p>Стоп лосс можно поставить за предыдущий минимум <em>(лой)</em> перед пробоем уровня</p>
+<p>Стоп лосс можно поставить за предыдущий минимум <em>(лой)</em> перед пробоем уровня <em>(отмечен красной горизонтальной линией S/L)</em>. Точки входа отмечены белыми кругами.</p>
 
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaMonitoring.png" style="height:133px; width:200px; align-self: center" />
-
-<p>Точки входа отмечены белыми кругами. Stop-loss отмечен красной горизонтальной линией</p>
 
 <p><img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/money.png?raw=true"><strong>Результат сделки:</strong></p>
