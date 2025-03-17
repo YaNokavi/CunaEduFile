@@ -6,10 +6,12 @@
 	<br>&bull; Резкий разворот с формированием сильной противоположной свечи <em>(например, пин-бар)</em>. 
   Самое лучшее, что вы можете сделать, чтобы не попасться на ложный пробой - не 
   открывать позиции сразу после пробоя, не торопиться и ждать максимального 
-  количества сигналов для захода в сделку.
+  количества сигналов для захода в сделку.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/signal.png?raw=true">
 </p>
 
 <h1>Заключение</h1>
 
 <p><strong>Пробои уровней - мощный инструмент</strong>, но требуют терпения и анализа. Не спешите входить в 
-рынок: дождитесь подтверждения сигналов!</p>
+рынок: дождитесь подтверждения сигналов!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/wait.png?raw=true"></p>
