@@ -4,19 +4,26 @@
 
 <p>&bull; На старшем таймфрейме <em>(например, недельном)</em> находим трендовое движение.</p>
 
-<p>&bull; Ждем формирования коррекции <em>(флага)</em> &mdash; зоны консолидации с четкими уровнями поддержки и сопротивления.</p>
+<p>&bull; Ждем формирования коррекции <em>(флага)</em> &mdash; зоны консолидации с четкими 
+уровнями поддержки и сопротивления.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/time.png?raw=true"></p>
 
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaFound.png" style="height:150px; width:200px; align-self: center" />
 
 <p><strong>2. Мониторинг пробоя:</strong></p>
 
-<p>&bull; Переходим на младший таймфрейм <em>(я предпочитаю выбирать на 1 меньше, чем текущий)</em> для точного определения момента пробоя. Если вы рассматриваете движение на дневном таймфрейме, то мониторить пробой можно на 4-ёх часовом таймфрейме.</p>
+<p>&bull; Переходим на младший таймфрейм <em>(я предпочитаю выбирать на 1 меньше, чем текущий)</em> 
+для точного определения момента пробоя. Если вы рассматриваете движение на дневном 
+таймфрейме, то мониторить пробой можно на 4-ёх часовом таймфрейме.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/wait.png?raw=true"></p>
 
 <p>&bull; Критерии пробоя:</p>
 
 <p>&nbsp;&nbsp; &nbsp; &bull; Закрытие свечи за уровнем сопротивления флага.</p>
 
-<p>&nbsp;&nbsp; &nbsp; &bull; Желательно 3 и более свечей, закрытых выше уровня <em>(для снижения риска ложного пробоя)</em>.</p>
+<p>&nbsp;&nbsp; &nbsp; &bull; Желательно 3 и более свечей, закрытых выше 
+уровня <em>(для снижения риска ложного пробоя)</em><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/lie.png?raw=true">.</p>
 
 <p><strong>3. Вход в сделку:</strong></p>
 
@@ -30,5 +37,6 @@
 
 <p>Точки входа отмечены белыми кругами. Stop-loss отмечен красной горизонтальной линией</p>
 
-<p><strong>Результат сделки:</strong></p>
+<p><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/money.png?raw=true"><strong>Результат сделки:</strong></p>
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/KrukRossaResult.png" style="height:133px; width:200px; align-self: center" />
