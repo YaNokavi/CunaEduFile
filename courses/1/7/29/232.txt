@@ -3,7 +3,8 @@
 <p>Крюк Росса &mdash; это паттерн, возникающий после пробоя уровня в трендовом движении. Он 
 выглядит как небольшой откат цены с последующим возобновлением тренда. 
 Паттерн <strong>используется для входа в сделку с минимальным риском</strong>, так как 
-подтверждает силу текущего тренда.</p>
+подтверждает силу текущего тренда.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/strong.png?raw=true"></p>
 
 <h3 style="align-self: center;">Условия формирования</h3>
 
@@ -14,4 +15,5 @@
 зону консолидации <em>(флаг, клин, канал)</em>.</p>
 
 <p>&bull; <strong>Пробой уровня сопротивления/поддержки флага</strong>: Цена пробивает 
-границу коррекции, сигнализируя о продолжении тренда.</p>
+границу коррекции, сигнализируя о продолжении тренда.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/trend.png?raw=true"></p>
