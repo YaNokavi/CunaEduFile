@@ -39,5 +39,5 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/lik
 	<li>Стоп-лосс ставится за пределы <em>"крюка"</em>.</li>
 </ul>
 
-<p><em>Преимущество</em>: Позволяет часто избегать ловушек ложных пробоев.<img style="vertical-align: middle" height=40 width=40 
+<p><em>Преимущество</em>: Часто позволяет избегать ловушек ложных пробоев.<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/like.png?raw=true"></p>
