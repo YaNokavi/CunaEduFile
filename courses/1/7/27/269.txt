@@ -5,7 +5,7 @@
 падении" (buying the dip)</em>, особенно если долгосрочный тренд остается восходящим. Важно при 
 этом убедиться в силе долгосрочного тренда, используя более широкий технический анализ</p>
 
-<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/buyingTheDeepMeme.png" style="height:150px; width:150px" />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/buyingTheDeepMeme.png" style="height:200px; width:200px" />
 <p>(Про фиксируем прибыль шутка)</p>
 
 <p>Еще одной стратегией, применяемой во время коррекций, является метод усреднения долларовой 
@@ -13,7 +13,7 @@
 фиксированного количества актива через определенные промежутки времени, независимо от его 
 текущей цены. Это позволяет снизить риск покупки на самом пике цены.</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/dollar-cost-average-1.png" style="height:64px; width:150px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/dollar-cost-average-1.png" style="height:85px; width:200px" /></p>
 
 <p>Крайне важно сохранять спокойствие и следовать своему торговому плану во время рыночных 
 коррекций. Вместо того чтобы принимать импульсивные решения, основанные на краткосрочных 
