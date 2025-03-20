@@ -1,4 +1,4 @@
-<h1>Пробой уровней и их роль</h1>
+<h1>Пробои уровней и их роль</h1>
 
 <img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/23/images/LevelBreakdown.png" style="height:111px; width:200px; align-self: center;" />
 
