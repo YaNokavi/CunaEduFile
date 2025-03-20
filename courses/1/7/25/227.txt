@@ -1,12 +1,15 @@
 <h1>Как отличить ложный пробой?</h1>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/FalseBreakdown.png" style="height:101px; width:150px" /></p>
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/FalseBreakdown.png" style="height:133px; width:200px; align-self: center;" />
 
 <p><strong>Признаки</strong>:<br />
 &bull; Низкий объем при пробое.<br />
 &bull; Цена не закрепляется за уровнем <em>(например, закрывается внутри диапазона)</em>.<br />
-&bull; Резкий разворот с формированием сильной противоположной свечи <em>(например, пин-бар)</em>. Самое лучшее, что вы можете сделать, чтобы не попасться на ложный пробой - не открывать позиции сразу после пробоя, не торопиться и ждать максимального количества сигналов для захода в сделку.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/signal.png?raw=true" style="height:40px; width:40px" /></p>
+&bull; Резкий разворот с формированием сильной противоположной свечи <em>(например, пин-бар)</em>. Самое лучшее, что вы можете сделать, чтобы не попасться на ложный пробой - не открывать позиции сразу после пробоя, не торопиться и ждать максимального количества сигналов для захода в 
+сделку.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/signal.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
 <h1>Заключение</h1>
 
-<p><strong>Пробои уровней - мощный инструмент</strong>, но требуют терпения и анализа. Не спешите входить в рынок: дождитесь подтверждения сигналов!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/wait.png?raw=true" style="height:40px; width:40px" /></p>
+<p><strong>Пробои уровней - мощный инструмент</strong>, но требуют терпения и анализа. 
+Не спешите входить в рынок: дождитесь подтверждения 
+сигналов!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/wait.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
