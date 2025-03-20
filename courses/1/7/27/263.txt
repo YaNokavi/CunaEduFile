@@ -7,7 +7,7 @@
 
 <p>Консолидация означает период, когда цена актива колеблется в относительно узком диапазоне, характеризующемся низкой волатильностью и уменьшенным объемом торгов. Это напоминает перетягивание каната между покупателями и продавцами, где ни одна из сторон не может получить значительного преимущества</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/30/images/Consolidation.png" style="height:108px; width:150px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/Consolidation.png" style="height:108px; width:150px" /></p>
 
 <p>Существует несколько основных причин возникновения консолидации:</p>
 

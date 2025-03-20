@@ -5,25 +5,25 @@
 <strong>оценивать состояние тренда</strong> и <strong>быстро реагировать на его смену</strong>.</p>
 
 <p><strong>Как определить уровень тренда?</strong><img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/trend.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/trend.png?raw=true"></p>
 
 <p>Уровни тренда находятся практически так же, как и простейшие горизонтальные уровни. Если мы видим тренд, мы можем провести линию, которая будет касаться максимального количества экстремумов, она и будет являться линией тренда.</p>
 
 <p><strong>Пример построения уровней тренда</strong></p>
 
 <p>На скриншоте ниже мы видим зародившийся восходящий тренд <em>(уже по первым двум касаниям наклонной можем строить уровень и ждать отработки. Если она, конечно, произойдет)</em>, проводим уровень по минимумам графика, он и будет уровнем поддержки.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/support.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/support.png?raw=true"></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/SupportLevel.jpeg" style="height:120px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/SupportLevel.jpeg" style="height:120px; width:200px; align-self: center;" />
 
 <p>Очень часто бывает такое, что уровни поддержки и сопротивления параллельны, поэтому, чтобы определить потенциальный уровень поддержки/сопротивления, нам будет достаточно провести только один уровень, второй проводится параллельно первому.</p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ParallelLevelsExample.png" style="height:150px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ParallelLevelsExample.png" style="height:150px; width:200px; align-self: center;" />
 
 <p>Удобный инструмент для построения параллельных уровней тренда вы можете увидеть на приложенном ниже скриншоте. Для анализа графиков использую платформу <strong>TradingView</strong>.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/tool.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/tool.png?raw=true"></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/ToolForLevelDrawing.jpeg" style="height:200px; width:133px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ToolForLevelDrawing.jpeg" style="height:200px; width:133px; align-self: center;" />
 
 <p>Если же построить второй уровень параллельно первому не получается, тогда придется строить его вручную ровно по тому же принципу, по которому строили первый. Из-за того, что наклонные уровни гораздо субъективнее, чем горизонтальные, работают они гораздо менее ювелирно: зачастую бывают ложные пробои.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/lie.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/lie.png?raw=true"></p>

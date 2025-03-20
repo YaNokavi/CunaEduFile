@@ -2,7 +2,7 @@
 
 <p>Коррекция представляет собой значительное, но временное снижение цены актива после периода ее роста или переоценки.&nbsp;Важно понимать, что коррекция, как правило, не является разворотом тренда, а представляет собой временный откат в рамках преобладающей тенденции. В этом заключается ее отличие от более глубокого и продолжительного спада</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/30/images/Correction.png" style="height:135px; width:150px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/Correction.png" style="height:135px; width:150px" /></p>
 
 <p>Коррекции происходят по множеству причин&nbsp;:&nbsp;&nbsp;&nbsp;</p>
 

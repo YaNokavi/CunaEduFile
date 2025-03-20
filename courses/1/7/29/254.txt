@@ -4,23 +4,23 @@
 
 <p>Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже:</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeReaction.jpeg" style="height:153px; width:200px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeReaction.jpeg" style="height:153px; width:200px" /></p>
 
 <p>Объемный уровень <em>(отмечен желтой горизонтальной линией)</em>. Видим, что довольно часто цена давала на него реакцию. Давайте разберемся, как их находить и использовать в торговле!</p>
 
 <h3>Как находить и строить объемные уровни?</h3>
 
-<p><strong>Инструмент:</strong> Для построения можно использовать <strong>Fixed Range Volume Profile</strong> в <strong>TradingView</strong>.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/tool.png?raw=true" style="height:40px; width:40px" /></p>
+<p><strong>Инструмент:</strong> Для построения можно использовать <strong>Fixed Range Volume Profile</strong> в <strong>TradingView</strong>.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/tool.png?raw=true" style="height:40px; width:40px" /></p>
 
 <p><strong>Шаги:</strong></p>
 
 <p>1.Находим <strong>консолидацию</strong> на графике. Важно, чтобы консолидация была сформирована до конца, то есть цена уже вышла из консолидации в любую из сторон.</p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/ConsolidationExample1.jpeg" style="height:153px; width:200px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/ConsolidationExample1.jpeg" style="height:153px; width:200px" /></p>
 
 <p>2.Выбираем инструмент <strong>Fixed Range Volume Profile</strong></p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/FixedProfileVolumeRange.jpeg" style="height:153px; width:75px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/FixedProfileVolumeRange.jpeg" style="height:153px; width:75px" /></p>
 
 <p>3.Выделяем диапазон:</p>
 
@@ -29,10 +29,10 @@
 	<li>Вторая точка &mdash; конец консолидации.</li>
 </ul>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VidelenieDiapozona.jpeg" style="height:153px; width:200px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VidelenieDiapozona.jpeg" style="height:153px; width:200px" /></p>
 
 <p>4. Желтая линия это и есть максимальный объем проторговки, ее мы и продлеваем любым удобным вам инструментом <em>(я использую horizontal ray)</em></p>
 
-<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/26/images/VolumeLevelReady.jpeg" style="height:153px; width:200px" /></p>
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/29/images/VolumeLevelReady.jpeg" style="height:153px; width:200px" /></p>
 
-<p>Важно понимать, что объемы чаще всего не отрабатывают ювелирно, так что никогда не торопитесь с решениями и не паникуйте. Ждите окончательной реакции рынка!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/solution.png?raw=true" style="height:40px; width:40px" /></p>
+<p>Важно понимать, что объемы чаще всего не отрабатывают ювелирно, так что никогда не торопитесь с решениями и не паникуйте. Ждите окончательной реакции рынка!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/solution.png?raw=true" style="height:40px; width:40px" /></p>
