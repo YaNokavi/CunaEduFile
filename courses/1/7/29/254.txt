@@ -1,6 +1,6 @@
 <h1>Объемные уровни</h1>
 
-<p>Объемные уровни &mdash; это <strong>ключевые зоны</strong>, где цена актива встречает максимальную активность трейдеров. Они показывают, на каких уровнях было заключено больше всего сделок, а значит &mdash; где рынок <em>&quot;запомнил&quot;</em> цену.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/26/images/memory.png?raw=true" style="height:40px; width:40px" /></p>
+<p>Объемные уровни &mdash; это <strong>ключевые зоны</strong>, где цена актива встречает максимальную активность трейдеров. Они показывают, на каких уровнях было заключено больше всего сделок, а значит &mdash; где рынок <em>&quot;запомнил&quot;</em> цену.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/29/images/memory.png?raw=true" style="height:40px; width:40px" /></p>
 
 <p>Пример реакции рынка на объемный уровень вы можете увидеть на скриншоте ниже:</p>
 
