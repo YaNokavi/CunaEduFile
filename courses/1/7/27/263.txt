@@ -4,19 +4,22 @@
 роста <em>(бычьи рынки)</em> и значительных спадов <em>(медвежьи рынки)</em>. Однако ценовое движение не 
 всегда бывает направленным. Существуют фазы, когда цена актива как бы замирает или временно 
 откатывается назад. Понимание этих периодов имеет решающее значение для любого, кто занимается 
-техническим анализом.</p>
+техническим анализом.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/analyse.png?raw=true"></p>
 
 <h3 style="align-self: center;">Консолидация</h3>
 
 <p>Консолидация означает период, когда цена актива колеблется в относительно узком диапазоне, 
 характеризующемся низкой волатильностью и уменьшенным объемом торгов. Это напоминает перетягивание 
 каната между покупателями и продавцами, где ни одна из сторон не может получить 
-значительного преимущества.</p>
+значительного преимущества.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/agreement.png?raw=true"></p>
 
 <p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/27/images/Consolidation.png" style="height:144px; width:200px" /></p>
 
 <p>
-Существует несколько основных причин возникновения консолидации:
+Существует несколько основных причин возникновения консолидации:<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/27/images/cause.png?raw=true">
 	<br><strong>&bull; Баланс между давлением покупателей и продавцов:</strong>&nbsp;Спрос и предложение достигают временного равновесия
 	<br><strong>&bull; Неопределенность на рынке:</strong>&nbsp;Трейдеры пересматривают свои позиции и ожидают новых катализаторов для движения цены
 	<br><strong>&bull; Передышка после значительных движений:</strong>&nbsp;Рынок &quot;переваривает&quot; недавние ценовые изменения
