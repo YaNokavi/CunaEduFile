@@ -2,7 +2,7 @@
 
 <p><strong>Крюк Росса</strong> &mdash; это мощный инструмент для следования за трендом с минимальными рисками. 
 Ключевые условия успешного использования этого паттерна:<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/30/images/important.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/23/images/important.png?raw=true"></p>
 
 <p>&bull; Четкое следование правилам входа<br />
 &bull; Контроль эмоций и дисциплина<br />

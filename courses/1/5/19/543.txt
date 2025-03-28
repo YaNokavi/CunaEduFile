@@ -1,8 +1,8 @@
 <h1>Сигналы истинного пробоя</h1>
 
-<p><strong>1. Закрытие свечи за уровнем</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/level.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p><strong>1. Закрытие свечи за уровнем</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/level.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/ClosingOverLevel.png" style="height:137px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/5/19/images/ClosingOverLevel.png" style="height:137px; width:200px; align-self: center;" />
 
 <p>Условия:</p>
 
@@ -15,9 +15,9 @@
 
 <p>Самый ненадежный сигнал. Часто дает ложные срабатывания.</p>
 
-<p><strong>2. Ретест уровня</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/repeat.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p><strong>2. Ретест уровня</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/repeat.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/LevelRetest.png" style="height:170px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/5/19/images/LevelRetest.png" style="height:170px; width:200px; align-self: center;" />
 
 <p>Ретест уровня - это когда после пробоя цена возвращается к уровню, тестирует его как поддержку/сопротивление и отскакивает в направлении пробоя</p>
 
@@ -25,9 +25,9 @@
 
 <p><em>Надежность</em>: Выше, чем у первого сигнала, но все еще требует дополнительного подтверждения</p>
 
-<p><strong>3. Крюк Росса</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/like2.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p><strong>3. Крюк Росса</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/like2.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/KrukRossaExample.png" style="height:135px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/5/19/images/KrukRossaExample.png" style="height:135px; width:200px; align-self: center;" />
 
 <p>Суть: Паттерн, формирующийся после пробоя, когда цена делает <em>&quot;откат&quot;</em>, а затем возобновляет движение в сторону пробоя <em>(про него мы вам расскажем подробнее в другом сабмодуле)</em></p>
 
@@ -38,4 +38,4 @@
 	<li>Стоп-лосс ставится за пределы <em>&quot;крюка&quot;</em>.</li>
 </ul>
 
-<p><em>Преимущество</em>: Часто позволяет избегать ловушек ложных пробоев.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/like.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p><em>Преимущество</em>: Часто позволяет избегать ловушек ложных пробоев.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/like.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>

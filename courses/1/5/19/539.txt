@@ -3,24 +3,24 @@
 <p><strong>Пробой уровня</strong> - это ситуация, когда цена актива преодолевает ключевую 
 зону поддержки или сопротивления, выходя за её пределы. Однако не каждый пробой 
 ведет к продолжению тренда.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/trend.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/trend.png?raw=true"></p>
 
 <p><strong>Типы пробоев</strong></p>
 <p>&bull; <strong>Истинный пробой</strong>: Цена закрепляется за уровнем и продолжает движение 
 в направлении пробоя <em>(например, после пробития сопротивления начинается устойчивый рост)</em>.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/height.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/height.png?raw=true"></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/trueBreakdown.jpeg" style="height:190px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/5/19/images/trueBreakdown.jpeg" style="height:190px; width:200px; align-self: center;" />
 
 <p>&bull; <strong>Ложный пробой</strong>: Цена временно выходит за уровень, но затем резко 
 разворачивается, возвращаясь в предыдущий диапазон.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/zone.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/zone.png?raw=true"></p>
 
-<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/7/25/images/falseBreakdown.jpeg" style="height:173px; width:200px; align-self: center;" />
+<img class="iview-image" data-iview src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/5/19/images/falseBreakdown.jpeg" style="height:173px; width:200px; align-self: center;" />
 
 <p><strong>Почему так сложно определить пробой?</strong>
 <br>&bull; <strong>Рыночный шум</strong>: Краткосрочные колебания создают ложные сигналы.
 <br>&bull; <strong>Манипуляции</strong>: Крупные игроки могут намеренно <em>"выбивать"</em> стоп-лоссы мелких трейдеров.
 <br>&bull; <strong>Контекст рынка</strong>: Пробой без подтверждения объема или на фоне слабого тренда часто оказывается ложным.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/7/25/images/lie.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/5/19/images/lie.png?raw=true">
 </p>
