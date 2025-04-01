@@ -1,1 +1,9 @@
-<p>{ &quot;question&quot;: &quot;asd&quot;, &quot;options&quot;: [ &quot;asd&quot;, &quot;asd&quot;, &quot;asd&quot;, &quot;asd&quot; ], &quot;answer&quot;: [] }</p>
+{
+  "question": "фыыфв",
+  "options": [
+    "фыв",
+    "фыв",
+    "фев"
+  ],
+  "answer": []
+}
