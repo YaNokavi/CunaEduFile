@@ -1,12 +1,12 @@
 {
-  "question": "Какой алгоритм майнинга используется в Litecoin?",
+  "question": "Как назывался первый неудачный проект криптовалюты Чарли Ли?",
   "options": [
-    "SHA-256",
-    "Scrypt",
+    "Bitcoin Cash",
+    "Scryptix",
     "Ethash",
-    "Proof-of-Stake"
+    "Fairbix"
   ],
   "answer": [
-    "Scrypt"
+    "Fairbix"
   ]
 }
