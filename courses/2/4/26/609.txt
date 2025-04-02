@@ -1,10 +1,12 @@
 {
-  "question": "asd",
+  "question": "В каком году SEC подала иск против Ripple Labs?",
   "options": [
-    "asd",
-    "asd",
-    "asd",
-    "asd"
+    "2018",
+    "2022",
+    "2019",
+    "2020"
   ],
-  "answer": []
+  "answer": [
+    "2020"
+  ]
 }
