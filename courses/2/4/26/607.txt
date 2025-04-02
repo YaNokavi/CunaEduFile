@@ -1,9 +1,10 @@
 {
-  "question": "фыыфв",
+  "question": "Какой протокол был разработан OpenCoin на основе концепции Райана Фуггера?",
   "options": [
-    "фыв",
-    "фыв",
-    "фев"
+    "Stellar Consensus Protocol",
+    "Cosmos SDK",
+    "Ripple Transaction Protocol",
+    "Corda Protocol"
   ],
   "answer": []
 }
