@@ -1,10 +1,14 @@
 {
-  "question": "asdadas",
+  "question": "Какие компании были связаны с карьерой Чарли Ли?",
   "options": [
-    "asd",
-    "asd",
-    "asd",
-    "asd"
+    "Google",
+    "Microsoft",
+    "Coinbase",
+    "Guidewire"
   ],
-  "answer": []
+  "answer": [
+    "Google",
+    "Coinbase",
+    "Guidewire"
+  ]
 }
