@@ -6,5 +6,7 @@
     "Ripple Transaction Protocol",
     "Corda Protocol"
   ],
-  "answer": []
+  "answer": [
+    "Ripple Transaction Protocol"
+  ]
 }
