@@ -1,12 +1,12 @@
 {
-  "question": "asd",
+  "question": "Какой компьютер купил отец Чанпэна Чжао для него?",
   "options": [
-    "asd",
-    "asd",
-    "asd",
-    "asd"
+    "Dell Inspiron",
+    "Apple Macintosh",
+    "IBM PC XT 286",
+    "HP Pavilion"
   ],
   "answer": [
-    "asd"
+    "IBM PC XT 286"
   ]
 }
