@@ -1,10 +1,12 @@
 {
-  "question": "dasd",
+  "question": "Какой алгоритм майнинга используется в Litecoin?",
   "options": [
-    "asd",
-    "asd",
-    "asda",
-    "sd"
+    "SHA-256",
+    "Scrypt",
+    "Ethash",
+    "Proof-of-Stake"
   ],
-  "answer": []
+  "answer": [
+    "Scrypt"
+  ]
 }
