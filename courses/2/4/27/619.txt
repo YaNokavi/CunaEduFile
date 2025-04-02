@@ -1,10 +1,10 @@
 {
-  "question": "asd",
+  "question": "Какая компания была основана Чанпэном Чжао после ухода из Bloomberg?",
   "options": [
-    "asd",
-    "asd",
-    "asd",
-    "asd"
+    "Binance",
+    "Blockchain.info",
+    "Fusion Systems",
+    "OKCoin"
   ],
   "answer": []
 }
