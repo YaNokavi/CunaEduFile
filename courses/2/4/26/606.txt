@@ -1,10 +1,12 @@
 {
-  "question": "sada",
+  "question": "Какие финансовые учреждения сотрудничали с Ripple в 2014 году?",
   "options": [
-    "asd",
-    "asd",
-    "asd",
-    "asd"
+    "American Express и Visa",
+    "Standard Chartered и Mastercard",
+    "American Express и Standard Chartered",
+    "PayPal и Western Union"
   ],
-  "answer": []
+  "answer": [
+    "American Express и Standard Chartered"
+  ]
 }
