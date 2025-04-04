@@ -1,7 +1,19 @@
 <h1>LTC и Чарли Ли</h1>
 
-<p><strong>Litecoin </strong><em>(LTC)</em> - опенсорсный токен, который на данный момент стоит на 20-м месте по рыночной капитализации. Его создатель - <strong>Чарли Ли</strong>, бывший сотрудник Google и бывший технический директор известной американской криптобиржи Coinbase.</p>
+<p><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/litecoin.png?raw=true">
+<strong>Litecoin </strong><em>(LTC)</em> - опенсорсный токен, который находится в топе по рыночной 
+капитализации. Его создатель - <strong>Чарли Ли</strong>, бывший 
+сотрудник Google и бывший технический директор известной американской криптобиржи Coinbase.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/coinbase.png?raw=true"></p>
 
-<p>Чарли Ли родился в западноафриканской стране <strong>Кот-д&#39;Ивуар</strong>. В возрасте 13 лет семья переехала в США. Чарли окончил среднюю школу <strong>в 1995 году</strong>, а <strong>в 2000 году</strong> получил степень магистра компьютерных наук в Массачусетском технологическом институте <em>(MIT)</em>. С самого детства Чарли Ли проявлял большой интерес к компьютерным технологиям.</p>
+<p>Чарли Ли родился в западноафриканской стране <strong>Кот-д&#39;Ивуар</strong>. В возрасте 
+13 лет семья переехала в США. Чарли окончил среднюю школу <strong>в 1995 году</strong>, а <strong>в 
+2000 году</strong> получил степень магистра компьютерных наук в Массачусетском технологическом 
+институте <em>(MIT)</em>. С самого детства Чарли Ли проявлял большой интерес к компьютерным технологиям.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/programming.png?raw=true"></p>
 
-<p>После окончания MIT несколько лет он проработал в таких компаниях, как <strong>Google</strong> и <strong>Guidewire</strong>. В Google он занимался приложениями для мобильных устройств, в том числе для YouTube, и операционной системой Chrome.</p>
+<p>После окончания MIT несколько лет он проработал в таких компаниях, как <strong>Google</strong> 
+и <strong>Guidewire</strong>. В Google он занимался приложениями для мобильных устройств, в том 
+числе для YouTube, и операционной системой Chrome.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/like.png?raw=true"></p>
