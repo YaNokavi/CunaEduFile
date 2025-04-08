@@ -23,5 +23,5 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/min
 LTC более пригоден для небольших транзакций, таких как онлайн-платежи, в то время как биткоин 
 больше подходит для крупных. Чарли Ли часто говорил, что лайткоин &ndash; 
 это <em>&laquo;</em><em>цифровое серебро</em><em>&raquo;</em>, в то время как биткоин часто 
-сравнивают с золотом.<img style="vertical-align: middle" height=40 width=40 
+сравнивают с золотом.<img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/bitcoin.png?raw=true"></p>

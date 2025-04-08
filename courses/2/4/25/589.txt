@@ -1,10 +1,10 @@
 <h1>LTC и Чарли Ли</h1>
 
-<p><img style="vertical-align: middle" height=40 width=40 
+<p><img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/litecoin.png?raw=true">
 <strong>Litecoin </strong><em>(LTC)</em> - опенсорсный токен, который находится в топе по рыночной 
 капитализации. Его создатель - <strong>Чарли Ли</strong>, бывший 
-сотрудник Google и бывший технический директор известной американской криптобиржи Coinbase.<img style="vertical-align: middle" height=40 width=40 
+сотрудник Google и бывший технический директор известной американской криптобиржи Coinbase.<img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/25/images/coinbase.png?raw=true"></p>
 
 <p>Чарли Ли родился в западноафриканской стране <strong>Кот-д&#39;Ивуар</strong>. В возрасте 

@@ -1,6 +1,6 @@
 <h1>История XRP</h1>
 
-<p><img style="vertical-align: middle" height=40 width=40 
+<p><img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/26/images/ripple.png?raw=true">История <strong>Ripple</strong>&nbsp;начинается в <strong>2004 году</strong>, когда <strong>Райан 
 Фуггер</strong>, веб-разработчик из Ванкувера, разработал платежную систему под названием 
 <strong>RipplePay</strong>. Идея создания RipplePay пришла к Фуггеру после знакомства с работой 

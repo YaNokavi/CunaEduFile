@@ -1,6 +1,6 @@
 <h1>История CZ и Binance</h1>
 
-<p><img style="vertical-align: middle" height=40 width=40 
+<p><img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/2/4/27/images/binance.png?raw=true"><strong>赵长鹏</strong> или <strong>Чанпэн Чжао</strong>, известный как <strong>CZ</strong>, 
 родился в китайской деревне <strong>в 1977 году</strong>. Его мама работала учителем начальной 
 и средней школы, а папа был своего рода учеником-учителем в магистратуре, став в конце концов 
