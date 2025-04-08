@@ -4,14 +4,14 @@
   <br>Высокая ликвидность помогает снизить волатильность цен. Когда много участников рынка 
   готовы покупать и продавать актив, это создает стабильные условия для торговли. В условиях 
   низкой ликвидности даже небольшие сделки могут вызвать резкие изменения цены.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/demotion.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/demotion.png?raw=true">
 </p>
 <p>
   <strong>2. Упрощение торговли</strong>
   <br>Ликвидные рынки позволяют трейдерам быстро входить и выходить из позиций без значительных 
   затрат на проскальзывание цен. Это особенно важно для краткосрочных трейдеров, которые ищут 
   возможности для быстрой прибыли.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/fast.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/fast.png?raw=true">
 </p>
 <p>
   <strong>3. Оптимальные цены</strong>
@@ -25,5 +25,5 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   возможность быстрой конверсии в наличные деньги. Это может повысить интерес к криптовалюте 
   со стороны институциональных инвесторов, что в свою очередь может способствовать росту капитализации.
   <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
 </p>

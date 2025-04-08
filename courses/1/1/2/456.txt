@@ -6,7 +6,7 @@
   Капитализация является ключевым фактором, формирующим 
   динамику цен. Давайте рассмотрим, как она влияет на поведение трейдеров и инвесторов!
   <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/behavior.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/behavior.png?raw=true">
 </p>
 <p>
   <strong>1. Капитализация как индикатор стабильности</strong>
@@ -31,6 +31,6 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   и в целом в рынке. Когда капитализация растет, это может создать позитивное настроение 
   среди трейдеров и привлечь новых инвесторов. Напротив, падение капитализации может 
   вызвать панику и привести к массовым распродажам.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/sale.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/sale.png?raw=true">
 </p>
 

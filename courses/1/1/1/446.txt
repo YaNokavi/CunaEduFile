@@ -9,5 +9,5 @@
 <p>
   В следующей теме вы узнаете о таких важных аспектах криптовалютного рынка, как <em>капитализация</em> и <em>ликвидность</em>!
   <strong>Готовы продолжить наше увлекательное путешествие?</strong><img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/travel.png?raw=true">
+  src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/travel.png?raw=true">
 </p>

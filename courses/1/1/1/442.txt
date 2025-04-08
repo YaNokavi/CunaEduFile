@@ -4,7 +4,7 @@
   его в контексте другого важного подхода — <strong>фундаментального анализа</strong>. Оба метода имеют 
   свои <em>уникальные особенности</em> и <em>цели</em>, и понимание их различий поможет вам выбрать правильную 
   стратегию для торговли. Готовы? Давайте разберемся!<img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/up.png?raw=true">
+  src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/up.png?raw=true">
 </p>
 <p>
   <strong>1. Что такое технический анализ?</strong>
@@ -21,6 +21,6 @@
   финансовых отчетов компании, новостей о рынке, экономических показателей и даже 
   политических событий. <strong>Цель фундаментального анализа — определить, является ли актив 
   недооцененным или переоцененным</strong>.<img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/mark.png?raw=true">
+  src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/mark.png?raw=true">
 </p>
 

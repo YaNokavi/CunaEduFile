@@ -5,7 +5,7 @@
   насколько легко и быстро можно купить или продать активы по <em>текущей рыночной цене</em>. Понимание 
   ликвидности имеет решающее значение для трейдеров и инвесторов, так как она напрямую влияет 
   на способность эффективно проводить сделки и управлять рисками.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/risk.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/risk.png?raw=true">
 </p>
 <p>
   <strong>Что такое ликвидность?</strong>

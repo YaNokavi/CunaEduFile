@@ -2,7 +2,7 @@
 
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/market.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/market.png?raw=true">
   Когда мы говорим о капитализации, важно понимать, что это не просто цифра, а <em>ключевой 
   индикатор</em>, который помогает инвесторам и трейдерам оценивать потенциал токена. Давайте 
   разберемся, почему капитализация так важна и как она может помочь в принятии инвестиционных решений.

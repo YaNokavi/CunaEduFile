@@ -2,7 +2,7 @@
 
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/approach.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/approach.png?raw=true">
   <em>Подход к анализу</em>
   <br><strong>• Технический анализ:</strong> Ориентирован на графики и исторические данные. Трейдеры ищут паттерны 
   и сигналы для принятия решений.
@@ -11,7 +11,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
 </p>
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/time.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/time.png?raw=true">
   <em>Временной горизонт</em>
   <br><strong>• Фундаментальный анализ:</strong> Обычно применяется для долгосрочных инвестиций. Инвесторы ищут 
   активы с высоким потенциалом роста в будущем.
@@ -21,7 +21,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
 </p>
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/art.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/1/images/art.png?raw=true">
   <em>Инструменты</em>
   <br><strong>• Технический анализ:</strong> Использует графики, индикаторы, уровни поддержки, сопротивления и т.д.
   <br><strong>• Фундаментальный анализ:</strong> Использует финансовые отчеты, экономические индикаторы 

@@ -1,7 +1,7 @@
 <h1>Как оценить ликвидность?</h1>
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/level.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/level.png?raw=true">
   Чтобы определить уровень ликвидности криптовалюты, обратите 
   внимание на следующие <strong>ключевые показатели</strong>:
 </p>
