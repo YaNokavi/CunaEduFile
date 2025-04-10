@@ -1,0 +1,16 @@
+{
+  "question": "Ghdsgd",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingUp.png?raw=true",
+    "height": "100",
+    "width": "100"
+  },
+  "options": [
+    "sdf",
+    "dsf",
+    "def"
+  ],
+  "answer": [
+    "dsf"
+  ]
+}
