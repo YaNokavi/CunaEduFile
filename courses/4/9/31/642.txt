@@ -11,3 +11,5 @@
 <ul>
 	<li>DeWallet -&nbsp;надежный и удобный кошелек в виде Web-app, в котором, помимо основных функций, есть доступ к браузеру, где собраны ключевые приложения экосистемы TON: от DEX-бирж, до игр. Также в данном приложении доступен&nbsp;стейкинг разных&nbsp;валют!</li>
 </ul>
+
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/deWallet.jpg" style="height:198px; width:100px" /></p>
