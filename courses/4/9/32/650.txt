@@ -1,5 +1,5 @@
 {
-  "question": "Для чего в Tonkeeper используется технология TON DNS",
+  "question": "Для чего в Tonkeeper используется технология TON DNS?",
   "options": [
     "Для хранения NFT",
     "Для обмена токенов",
