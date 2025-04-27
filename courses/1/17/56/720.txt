@@ -4,11 +4,13 @@
 <strong>Линии</strong>: Самый распространенный способ визуализации (например, скользящие средние, линии RSI).<br />
 <img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/MA.png" style="height:126px; width:200px" /><br />
 <br />
-<strong>Гистограммы</strong>: Используются для отображения силы или направления движения (например, гистограмма MACD) ВСТАВИТЬ КАРТИНКУ С MACD<br />
+<strong>Гистограммы</strong>: Используются для отображения силы или направления движения (например, гистограмма MACD)&nbsp;<br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/MACD.png" style="height:151px; width:200px" /><br />
 <br />
-<strong>Области</strong>: Могут использоваться для выделения зон перекупленности/перепроданности или уровней волатильности. ВСТАВИТЬ КАРТИНКУ С ИШИМОКУ<br />
+<strong>Области</strong>: Могут использоваться для выделения зон перекупленности/перепроданности или уровней волатильности.&nbsp;<br />
+<img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/Ishimoku.png" style="height:132px; width:200px" /><br />
 <br />
 <strong>Точки и стрелки</strong>: Иногда используются для обозначения конкретных сигналов (например, точки Parabolic SAR).</p>
 
-<p>ВСТАВИТЬ КАРТИНКУ С SAR<br />
+<p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/ParabolikSAR.png" style="height:132px; width:200px" /><br />
 Визуализация делает абстрактные числовые значения интуитивно понятными и позволяет трейдерам быстро оценивать рыночную ситуацию и принимать торговые решения.</p>
