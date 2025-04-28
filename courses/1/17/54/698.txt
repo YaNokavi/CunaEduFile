@@ -1,6 +1,6 @@
 <h1>Почему индикаторы работают?</h1>
 
-<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/psihology.png?raw=true" style="height:40px; width:40px" /><em><strong>Математика + психология</strong></em><br />
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/psihology.png?raw=true" style="height:40px; width:40px" /><strong>Математика + психология</strong><br />
 &bull; Большинство индикаторов основаны на статистике <em>(например, стандартное отклонение 
 в полосах Боллинджера)</em><br />
 &bull; Они отражают поведение толпы: если RSI выше 70, значит, большинство трейдеров 
