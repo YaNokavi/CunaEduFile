@@ -1,21 +1,27 @@
 <h1>От формулы к визуализации</h1>
 
-<p>После того как индикатор произвел математические расчеты на основе исторических данных, полученные значения отображаются на графике в наглядной форме:</p>
+<p>После того как индикатор произвел математические расчеты на основе исторических данных, полученные 
+значения отображаются на графике в наглядной форме:</p>
 
-<p><strong>Линии</strong>: Самый распространенный способ визуализации <em>(например, скользящие средние, линии RSI).</em></p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/56/images/strong.png?raw=true" style="height:40px; width:40px" /><strong>Линии</strong>: Самый распространенный способ визуализации <em>(например, скользящие 
+средние, линии RSI).</em></p>
 
 <p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/MA.png" style="height:126px; width:200px" /></p>
 
-<p><strong>Гистограммы</strong>: Используются для отображения силы или направления движения <em>(например, гистограмма MACD).</em></p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/56/images/height.png?raw=true" style="height:40px; width:40px" /><strong>Гистограммы</strong>: Используются для отображения силы или направления 
+движения <em>(например, гистограмма MACD).</em></p>
 
 <p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/MACD.png" style="height:151px; width:200px" /></p>
 
-<p><strong>Области</strong>: Могут использоваться для выделения зон перекупленности/перепроданности или уровней волатильности.&nbsp;</p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/56/images/region.png?raw=true" style="height:40px; width:40px" /><strong>Области</strong>: Могут использоваться для выделения зон перекупленности/перепроданности 
+или уровней волатильности.&nbsp;</p>
 
 <p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/Ishimoku.png" style="height:132px; width:200px" /></p>
 
-<p><strong>Точки и стрелки</strong>: Иногда используются для обозначения конкретных сигналов <em>(например, точки Parabolic SAR)</em>.</p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/56/images/dot.png?raw=true" style="height:40px; width:40px" /><strong>Точки и стрелки</strong>: Иногда используются для обозначения конкретных 
+сигналов <em>(например, точки Parabolic SAR)</em>.</p>
 
 <p><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/17/56/images/ParabolikSAR.png" style="height:132px; width:200px" /></p>
 
-<p>Визуализация делает абстрактные числовые значения интуитивно понятными и позволяет трейдерам быстро оценивать рыночную ситуацию и принимать торговые решения.</p>
+<p>Визуализация делает абстрактные числовые значения интуитивно понятными и позволяет 
+трейдерам быстро оценивать рыночную ситуацию и принимать торговые решения.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/56/images/solution.png?raw=true" style="height:40px; width:40px" /></p>
