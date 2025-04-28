@@ -1,16 +1,13 @@
 <h1>Как правильно использовать индикаторы?</h1>
 
-<ul>
-	<li><strong>Используйте разные виды индикаторов</strong> для анализа рынка с нескольких сторон</li>
-	<li><strong>Учитывайте таймфрейм</strong>: На 1-минутном графике RSI будет &laquo;врать&raquo; чаще, чем на дневном</li>
-	<li><strong>Фильтруйте сигналы</strong>: Если MACD показывает покупку, но цена у сильного сопротивления - ждите подтверждения<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/wait.png?raw=true" style="height:40px; width:40px" /></li>
-	<li><strong>Тестируйте</strong>: Прежде чем торговать на реальные деньги, проверьте стратегию на истории</li>
-</ul>
+<p>&bull; <strong>Используйте разные виды индикаторов</strong> для анализа рынка с нескольких сторон</p>
 
-<h3 style="align-self: center;">Вывод</h3>
+<p>&bull; <strong>Учитывайте таймфрейм</strong>: На 1-минутном графике RSI будет &laquo;врать&raquo; чаще, чем на дневном</p>
 
-<p><strong>Индикаторы</strong> &mdash; <strong>это инструменты, а не волшебные 
-палочки!</strong> Они работают, потому что упрощают сложное, но требуют понимания контекста. 
-Не ищите <em>&laquo;идеальный индикатор&raquo;</em> &mdash; учитесь читать рынок в 
-комплексе. <em>&laquo;Плохой мастер ругает инструменты, хороший &mdash; знает их слабые 
-места!&raquo;</em><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/idea.png?raw=true" style="height:40px; width:40px" /></p>
+<p>&bull; <strong>Фильтруйте сигналы</strong>: Если MACD показывает покупку, но цена у сильного сопротивления - ждите подтверждения<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/wait.png?raw=true" style="height:40px; width:40px" /></p>
+
+<p>&bull; <strong>Тестируйте</strong>: Прежде чем торговать на реальные деньги, проверьте стратегию на истории</p>
+
+<h3>Вывод</h3>
+
+<p><strong>Индикаторы</strong> &mdash; <strong>это инструменты, а не волшебные палочки!</strong> Они работают, потому что упрощают сложное, но требуют понимания контекста. Не ищите <em>&laquo;идеальный индикатор&raquo;</em> &mdash; учитесь читать рынок в комплексе. <em>&laquo;Плохой мастер ругает инструменты, хороший &mdash; знает их слабые места!&raquo;</em><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/idea.png?raw=true" style="height:40px; width:40px" /></p>
