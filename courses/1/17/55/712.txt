@@ -14,4 +14,4 @@
 особенностей каждого типа индикаторов поможет вам сделать свой технический анализ более 
 осознанным и эффективным.</p>
 
-<p><em>&laquo;Знай свой инструмент, и он станет продолжением твоей руки&raquo;</em><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/55/images/tool.png?raw=true" style="height:40px; width:40px" /></p>
+<p style="align-self: center;"><em>&laquo;Знай свой инструмент, и он станет продолжением твоей руки&raquo;</em><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/55/images/tool.png?raw=true" style="height:40px; width:40px" /></p>
