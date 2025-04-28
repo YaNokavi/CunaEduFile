@@ -1,11 +1,15 @@
 <h1>Почему индикаторы работают?</h1>
 
-<p><em><strong>Математика + психология</strong></em><br />
-&bull; Большинство индикаторов основаны на статистике <em>(например, стандартное отклонение в полосах Боллинджера)</em><br />
-&bull; Они отражают поведение толпы: если RSI выше 70, значит, большинство трейдеров активно покупают &mdash; пора фиксировать прибыль</p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/psihology.png?raw=true" style="height:40px; width:40px" /><em><strong>Математика + психология</strong></em><br />
+&bull; Большинство индикаторов основаны на статистике <em>(например, стандартное отклонение 
+в полосах Боллинджера)</em><br />
+&bull; Они отражают поведение толпы: если RSI выше 70, значит, большинство трейдеров 
+активно покупают &mdash; пора фиксировать прибыль</p>
 
-<p><strong>Самоисполняющиеся пророчества</strong><br />
-&bull; Когда тысячи трейдеров видят <em>&laquo;золотой крест&raquo;</em> <em>(пересечение MA 50 и 200)</em> и покупают &mdash; цена действительно растет</p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/like.png?raw=true" style="height:40px; width:40px" /><strong>Самоисполняющиеся пророчества</strong><br />
+&bull; Когда тысячи трейдеров видят <em>&laquo;золотой крест&raquo;</em> <em>(пересечение 
+MA 50 и 200)</em> и покупают &mdash; цена действительно растет</p>
 
-<p><strong>Фильтрация шума</strong><br />
-&bull; Цена постоянно &laquo;дрожит&raquo; &mdash; индикаторы <em>(как MA)</em> отсекают мелкие колебания, оставляя суть движения</p>
+<p><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/listen.png?raw=true" style="height:40px; width:40px" /><strong>Фильтрация шума</strong><br />
+&bull; Цена постоянно &laquo;дрожит&raquo; &mdash; индикаторы <em>(как MA)</em> отсекают 
+мелкие колебания, оставляя суть движения</p>
