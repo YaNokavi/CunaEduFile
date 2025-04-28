@@ -1,12 +1,9 @@
 <h1>Как правильно использовать индикаторы?</h1>
 
-<p>&bull; <strong>Используйте разные виды индикаторов</strong> для анализа рынка с нескольких сторон</p>
-
-<p>&bull; <strong>Учитывайте таймфрейм</strong>: На 1-минутном графике RSI будет &laquo;врать&raquo; чаще, чем на дневном</p>
-
-<p>&bull; <strong>Фильтруйте сигналы</strong>: Если MACD показывает покупку, но цена у сильного сопротивления - ждите подтверждения<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/wait.png?raw=true" style="height:40px; width:40px" /></p>
-
-<p>&bull; <strong>Тестируйте</strong>: Прежде чем торговать на реальные деньги, проверьте стратегию на истории</p>
+<p>&bull; <strong>Используйте разные виды индикаторов</strong> для анализа рынка с нескольких сторон<br />
+&bull; <strong>Учитывайте таймфрейм</strong>: На 1-минутном графике RSI будет &laquo;врать&raquo; чаще, чем на дневном<br />
+&bull; <strong>Фильтруйте сигналы</strong>: Если MACD показывает покупку, но цена у сильного сопротивления - ждите подтверждения<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/54/images/wait.png?raw=true" style="height:40px; width:40px" /><br />
+&bull; <strong>Тестируйте</strong>: Прежде чем торговать на реальные деньги, проверьте стратегию на истории</p>
 
 <h3>Вывод</h3>
 
