@@ -6,13 +6,10 @@
 	<li><strong>Отличительные черты</strong>: Помогают определить уровни стоп-лосс и тейк-профит, а также оценить риск торговли. Используются для построения торговых диапазонов.</li>
 </ul>
 
-<p><strong>Примеры:</strong></p>
+<p><strong>Примеры:</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/55/images/important.png?raw=true" style="height:40px; width:40px" /></p>
 
 <ul>
 	<li><strong>Средний истинный диапазон</strong> <em>(Average True Range, ATR)</em> &mdash; измеряет волатильность, учитывая гэпы.</li>
 	<li><strong>Полосы Боллинджера</strong> <em>(Bollinger Bands)</em> &mdash; показывают динамические уровни поддержки и сопротивления на основе скользящей средней и стандартного отклонения.</li>
 	<li><strong>Каналы Дончиана</strong> <em>(Donchian Channels)</em> &mdash; отображают самый высокий максимум и самый низкий минимум цены за определенный период.</li>
 </ul>
-
-<p><br />
-&nbsp;</p>

@@ -6,12 +6,9 @@
 	<li><strong>Отличительные черты</strong>: Помогают оценить, насколько участники рынка поддерживают текущее ценовое движение. Дивергенция между ценой и объемом может быть важным сигналом.</li>
 </ul>
 
-<p><strong>Примеры:</strong></p>
+<p><strong>Примеры:</strong><img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/17/55/images/important.png?raw=true" style="height:40px; width:40px" /></p>
 
 <ul>
 	<li><strong>On Balance Volume</strong> <em>(OBV)</em> &mdash; связывает изменение цены с объемом торгов, показывая, находится ли объем на стороне покупателей или продавцов.</li>
 	<li><strong>Индикатор денежного потока</strong> <em>(Money Flow Index, MFI)</em> &mdash; взвешенный по объему RSI.</li>
 </ul>
-
-<p><br />
-&nbsp;</p>
