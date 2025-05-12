@@ -25,5 +25,5 @@ src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/fast
   возможность быстрой конверсии в наличные деньги. Это может повысить интерес к криптовалюте 
   со стороны институциональных инвесторов, что в свою очередь может способствовать росту капитализации.
   <img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/1/1/2/images/investor.png?raw=true">
 </p>
