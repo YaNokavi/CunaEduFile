@@ -4,4 +4,6 @@
 
 <p>Чтобы перейти к приложениям в Tonkeeper перейдите во вкладку &laquo;Браузер&raquo;. Там вы увидите множество различных приложений, включая популярные DEX и DeFi-сервисы:</p>
 
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/33/images/browser.jpg" style="height:207px; width:150px" /></p>
+
 <p>&nbsp;</p>
