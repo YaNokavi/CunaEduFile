@@ -18,7 +18,7 @@
 
 <p>2. Введите интересующий адрес или доменное имя в поисковую строку (например, Uf_mlXHnufWO3-vvopflR_NpIFMiidvp_xt20Qf8usMBBPEE).</p>
 
-<p>&nbsp;</p>
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/35/images/tonwallet.png" style="height:45px; width:200px" /></p>
 
 <p>3. Изучите баланс, историю транзакций и другую доступную информацию.</p>
 
