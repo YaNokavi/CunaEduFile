@@ -1,0 +1,12 @@
+{
+  "question": "Какое приложение TON позволяет покупать и продавать NFT?",
+  "options": [
+    "Fragment",
+    "StormTrade",
+    "Getgems",
+    "DeDust"
+  ],
+  "answer": [
+    "Getgems"
+  ]
+}
