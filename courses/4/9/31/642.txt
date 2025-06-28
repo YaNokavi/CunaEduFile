@@ -6,10 +6,10 @@
 	<li>&nbsp;<strong>xRocket</strong> - не только кошелек, но и централизованная биржа, через которую вы можете купить множество токенов. Вы можете использовать <em>как бота, так и Web-app</em>. Это очень удобное приложение для взаимодействия с экосистемой, поскольку помимо базовых функций вы можете создавать чеки и&nbsp;делать платный доступ к приватным беседам и каналам!</li>
 </ul>
 
-<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/xRocket.jpg" style="height:289px; width:150px" /></p>
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/xRocket.jpg" style="height:193px; width:100px" /></p>
 
 <ul>
 	<li><strong>DeWallet</strong> -&nbsp;надежный и удобный кошелек в виде Web-app, в котором, помимо основных функций, есть доступ к браузеру, где собраны ключевые приложения экосистемы TON: <em>от DEX-бирж, до игр</em>. Также в данном приложении доступен&nbsp;стейкинг разных&nbsp;валют!</li>
 </ul>
 
-<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/deWallet.jpg" style="height:296px; width:150px" /></p>
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/deWallet.jpg" style="height:198px; width:100px" /></p>
