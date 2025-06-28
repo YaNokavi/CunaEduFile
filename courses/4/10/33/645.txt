@@ -6,7 +6,7 @@
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/33/images/browser.jpg" style="height:138px; width:100px" /></p>
 
-<h2>Основные биржи и платформы внутри TON</h2>
+<h3 style="align-self: center">Основные биржи и платформы внутри TON</h3>
 
 <p>&bull;&nbsp;<strong>STONfi</strong>&nbsp;&mdash; популярная биржа в экосистеме TON. Здесь представлено множество торговых пар, пулы ликвидности, а также стейкинг.</p>
 
