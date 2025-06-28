@@ -9,3 +9,5 @@
 <p>Далее у вас есть возможность узнать метаданные монеты (адрес, название, supply и т.д.). Нам понадобится только адрес (синяя стрелка):</p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/36/images/addressNot.png" style="height:68px; width:200px" /></p>
+
+<p>Теперь, имея адрес, переходим к DeDust, чтобы приобрести необходимый нам токен!</p>
