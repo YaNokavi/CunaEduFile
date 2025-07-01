@@ -1,0 +1,12 @@
+{
+  "question": "Какой из перечисленных параметров задает сокращенное название токена?",
+  "options": [
+    "Jetton Name",
+    "Jetton Symbol",
+    "Jetton Decimals",
+    "Tokens to Mint"
+  ],
+  "answer": [
+    "Jetton Symbol"
+  ]
+}
