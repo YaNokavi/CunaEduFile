@@ -2,7 +2,7 @@
 
 <p>В телеграме вы также можете найти кошельки, которые не имеют отношения к 
 разработчикам TON и Telegram! Сейчас расскажем о самых популярных:<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/4/9/31/images/popularity.png?raw=true"></p>
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/31/images/popularity.png?raw=true"></p>
 
 <ul>
 	<li>&nbsp;<strong>xRocket</strong> - не только кошелек, но и централизованная биржа, через которую вы можете купить множество токенов. Вы можете использовать <em>как бота, так и Web-app</em>. Это очень удобное приложение для взаимодействия с экосистемой, поскольку помимо базовых функций вы можете создавать чеки - специальные платежные ссылки&nbsp;для передачи криптовалюты внутри Telegram. Есть разные виды чеков:<br />

@@ -1,7 +1,7 @@
 <h1>Введение</h1>
 
 <p><img style="vertical-align: middle" height=30 width=30 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/4/9/31/images/ton.png?raw=true">В нашем курсе <em>&quot;История мира криптовалют&quot;</em> мы выделили 
+src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/31/images/ton.png?raw=true">В нашем курсе <em>&quot;История мира криптовалют&quot;</em> мы выделили 
 отдельную тему про <strong>TON</strong>, где рассказали как появился сам 
 токен и как развивалась экосистема. В данном же курсе мы углубимся в саму 
 экосистему, узнаем про популярные кошельки, приложения и даже научимся 
