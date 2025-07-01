@@ -4,9 +4,11 @@
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/34/images/browser1.jpg" style="height:129px; width:100px" /></p>
 
+<p>&nbsp;</p>
+
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/34/images/browser2.jpg" style="height:135px; width:100px" /></p>
 
-<h3 style="align-self: center">Самые интересные приложения TON</h3>
+<h3>Самые интересные приложения TON</h3>
 
 <p>&bull;&nbsp;<strong>Getgems</strong>&nbsp;&mdash; NFT-маркетплейс, где можно покупать и продавать NFT из разных коллекций.</p>
 
