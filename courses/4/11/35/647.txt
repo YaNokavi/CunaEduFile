@@ -16,7 +16,7 @@
 
 <p>1. Перейдите на сайт Tonviewer или откройте его через встроенный браузер в Tonkeeper.</p>
 
-<p>2. Введите интересующий адрес или доменное имя в поисковую строку (например, Uf_mlXHnufWO3-vvopflR_NpIFMiidvp_xt20Qf8usMBBPEE).</p>
+<p>2. Введите интересующий адрес или доменное имя в поисковую строку <em>(например, Uf_mlXHnufWO3-vvopflR_NpIFMiidvp_xt20Qf8usMBBPEE)</em>.</p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/35/images/tonwallet.png" style="height:89px; width:400px" /></p>
 
