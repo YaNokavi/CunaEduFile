@@ -1,25 +1,34 @@
 <h1>Как создать скам токен</h1>
 
-<p>Конечно, это не гайд как обмануть людей, это лишь громкое название для привлечения внимания! Каждый человек может создать свою монету и в этих уроках расскажем, как это сделать!</p>
+<p>Конечно, это не гайд как обмануть людей, это лишь громкое название для привлечения 
+внимания! Каждый человек может создать свою монету и в этих уроках расскажем, как это сделать!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/fast.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
 <p>В первую очередь нам понадобятся:<br />
 <strong>1. Кошелек</strong> <em>(например, Tonkeeper)</em><br />
 <strong>2. Немного TON</strong> для оплаты комиссии</p>
 
-<p>Теперь у нас есть все необходимое, чтобы создать скам токен и нагреть гоев!&nbsp;Для этого нужно перейти на сайт TON Foundation в раздел Minter <em>(https://minter.ton.org/)</em> и подключить кошелёк.</p>
+<p>Теперь у нас есть все необходимое, чтобы создать скам токен и нагреть 
+гоев!&nbsp;Для этого нужно перейти на сайт TON Foundation в 
+раздел Minter <em>(https://minter.ton.org/)</em> и подключить кошелёк.</p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/37/images/minter.png" style="height:231px; width:200px" /></p>
 
 <p>Там мы видим поля для заполнения, пойдем по порядку:</p>
 
-<p>&bull;&nbsp;<strong>Jetton Name:</strong> указываем полное название монеты <em>(например, Bitcoin)</em></p>
+<p>&bull;&nbsp;<strong>Jetton Name:</strong> указываем полное название 
+монеты <em>(например, Bitcoin)</em></p>
 
-<p>&bull; <strong>Jetton Symbol:</strong> вписываем тикер <em>(сокращенное название)</em> монеты <em>(например, BTC)</em></p>
+<p>&bull; <strong>Jetton Symbol:</strong> вписываем тикер <em>(сокращенное название)</em> 
+монеты <em>(например, BTC)</em></p>
 
-<p>&bull; <strong>Jetton Decimals:</strong> указываем число - количество знаков после запятой&nbsp;<em>(проще оставить по умолчанию)</em></p>
+<p>&bull; <strong>Jetton Decimals:</strong> указываем число - количество 
+знаков после запятой&nbsp;<em>(проще оставить по умолчанию)</em></p>
 
-<p>&bull; <strong>Tokens to Mint:</strong>&nbsp;указываем общий салпай&nbsp;<em>(supply)</em>&nbsp;- количество токенов всего&nbsp;</p>
+<p>&bull; <strong>Tokens to Mint:</strong>&nbsp;указываем общий 
+салпай&nbsp;<em>(supply)</em>&nbsp;- количество токенов всего&nbsp;</p>
 
-<p>&bull; <strong>Description:</strong>&nbsp;можно написать краткое описание монеты <em>(например, Lutiy scam)</em></p>
+<p>&bull; <strong>Description:</strong>&nbsp;можно написать краткое 
+описание монеты <em>(например, Lutiy scam)</em></p>
 
-<p>После того, как все поля заполнены остаётся нажать на кнопку Deploy и оплатить комиссию. Монеты поступят на подключенный кошелёк</p>
+<p>После того, как все поля заполнены остаётся нажать на кнопку Deploy и 
+оплатить комиссию. Монеты поступят на подключенный кошелёк!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/win.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
