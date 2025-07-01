@@ -1,19 +1,24 @@
 <h1>Обособленые кошельки</h1>
 
-<p>В телеграме вы также можете найти кошельки, которые не имеют отношения к разработчикам TON и Telegram! Сейчас расскажем о самых популярных:</p>
+<p>В телеграме вы также можете найти кошельки, которые не имеют отношения к 
+разработчикам TON и Telegram! Сейчас расскажем о самых популярных:<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/4/9/31/images/popularity.png?raw=true"></p>
 
 <ul>
 	<li>&nbsp;<strong>xRocket</strong> - не только кошелек, но и централизованная биржа, через которую вы можете купить множество токенов. Вы можете использовать <em>как бота, так и Web-app</em>. Это очень удобное приложение для взаимодействия с экосистемой, поскольку помимо базовых функций вы можете создавать чеки - специальные платежные ссылки&nbsp;для передачи криптовалюты внутри Telegram. Есть разные виды чеков:<br />
 	<strong>1. Персональный чек</strong>&nbsp;&mdash; для отправки криптовалюты одному адресату.<br />
 	<strong>2. Мульти-чек</strong>&nbsp;&mdash; для распределения крипты нескольким адресатам одновременно.<br />
 	<strong>3. Rocket-чек</strong>&nbsp;&mdash; усовершенствованный мульти-чек с возможностью получения вознаграждения за перевод.<br />
-	Также в xRocket вы можете делать платный доступ к беседам и каналам!</li>
+	Также в xRocket вы можете делать платный доступ к беседам и каналам!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/31/images/pay.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></li>
 </ul>
 
-<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/xRocket.jpg" style="height:193px; width:100px" /></p>
+<p><img alt="xRocket" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/xRocket.jpg" style="height:193px; width:100px" /></p>
 
 <ul>
-	<li><strong>DeWallet</strong> -&nbsp;надежный и удобный кошелек в виде Web-app, в котором, помимо основных функций, есть доступ к браузеру, где собраны ключевые приложения экосистемы TON: <em>от DEX-бирж, до игр</em>. Также в данном приложении доступен&nbsp;стейкинг разных&nbsp;валют!</li>
+	<li><strong>DeWallet</strong> - надежный и удобный кошелек в виде Web-app, в котором, 
+  помимо основных функций, есть доступ к браузеру, где собраны ключевые приложения 
+  экосистемы TON: <em>от DEX-бирж, до игр</em>. Также в данном приложении доступен стейкинг 
+  разных валют!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/31/images/money.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></li>
 </ul>
 
-<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/deWallet.jpg" style="height:198px; width:100px" /></p>
+<p><img alt="deWallet" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/9/31/images/deWallet.jpg" style="height:198px; width:100px" /></p>

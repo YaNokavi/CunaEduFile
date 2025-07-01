@@ -1,23 +1,35 @@
 <h1>Приложения экосистемы TON</h1>
 
-<p>Перейдя во вкладку <em>&laquo;Браузер&raquo;</em> в Tonkeeper &mdash; здесь вы увидите множество разных приложений: от виртуальных сим-карт и VPN до нейросетей и игр. В предыдущем уроке мы уже рассмотрели часть DeFi-сектора TON.</p>
+<p>Перейдя во вкладку <em>&laquo;Браузер&raquo;</em> в Tonkeeper &mdash; здесь вы увидите 
+множество разных приложений: от виртуальных сим-карт и VPN до нейросетей и игр. В предыдущем 
+уроке мы уже рассмотрели часть DeFi-сектора TON.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/apps.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/34/images/browser1.jpg" style="height:129px; width:100px" /></p>
-
-<p>&nbsp;</p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/10/34/images/browser2.jpg" style="height:135px; width:100px" /></p>
 
 <h3>Самые интересные приложения TON</h3>
 
-<p>&bull;&nbsp;<strong>Getgems</strong>&nbsp;&mdash; NFT-маркетплейс, где можно покупать и продавать NFT из разных коллекций.</p>
+<p>&bull;&nbsp;<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/getgems.png?raw=true" style="height:30px; width:30px; vertical-align: middle;" /><strong>Getgems</strong>&nbsp;&mdash; NFT-маркетплейс, где можно 
+покупать и продавать NFT из разных коллекций.</p>
 
-<p>&bull;&nbsp;<strong>Fragment</strong>&nbsp;&mdash; сервис для покупки и продажи уникальных никнеймов в Telegram, анонимных номеров и премиум-аккаунтов.</p>
+<p>&bull;&nbsp;<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/fragment.png?raw=true" style="height:30px; width:30px; vertical-align: middle;" /><strong>Fragment</strong>&nbsp;&mdash; сервис для покупки и продажи 
+уникальных никнеймов в Telegram, анонимных номеров и премиум-аккаунтов.</p>
 
-<p>&bull;&nbsp;<strong>Обменники</strong>&nbsp;&mdash; приложения для покупки криптовалюты за фиат <em>(рубли)</em> или другую крипту. Обратите внимание, что некоторые обменники не поддерживают российские карты или требуют минимальную сумму покупки от определенной суммы. Мы рекомендуем самостоятельно изучить и выбрать удобный для вас сервис <em>(DYOR)</em>.</p>
+<p>&bull;&nbsp;<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/change.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /><strong>Обменники</strong>&nbsp;&mdash; приложения для покупки 
+криптовалюты за фиат <em>(рубли)</em> или другую крипту. Обратите внимание, что 
+некоторые обменники не поддерживают российские карты или требуют минимальную сумму 
+покупки от определенной суммы. Мы рекомендуем самостоятельно изучить и выбрать 
+удобный для вас сервис <em>(DYOR)</em>.</p>
 
-<p>&bull;&nbsp;<strong>AI</strong>&nbsp;&mdash; приложения для взаимодействия с нейросетями от GPT до Midjourney.</p>
+<p>&bull;&nbsp;<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/ai.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /><strong>AI</strong>&nbsp;&mdash; приложения для взаимодействия с 
+нейросетями от GPT до Midjourney.</p>
 
-<p>&bull;&nbsp;<strong>Утилиты</strong>&nbsp;&mdash; разные приложения предоставляющие абсолютно разный функционал. В данном разделе вы найдете как VPN, так и сервис для бронирования отелей.</p>
+<p>&bull;&nbsp;<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/10/34/images/useful.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /><strong>Утилиты</strong>&nbsp;&mdash; разные приложения предоставляющие 
+абсолютно разный функционал. В данном разделе вы найдете как VPN, так и сервис для 
+бронирования отелей.</p>
 
-<p>Экосистема TON предлагает разнообразные приложения, которые охватывают не только финансовые сервисы, но и развлечения, коммуникации и полезные инструменты. Благодаря удобному доступу через Tonkeeper вы можете легко исследовать эти возможности и выбрать то, что подходит именно вам!</p>
+<p>Экосистема TON предлагает разнообразные приложения, которые охватывают не только 
+финансовые сервисы, но и развлечения, коммуникации и полезные инструменты. Благодаря 
+удобному доступу через Tonkeeper вы можете легко исследовать эти возможности и выбрать то, 
+что подходит именно вам!</p>
