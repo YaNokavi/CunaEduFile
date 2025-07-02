@@ -1,29 +1,19 @@
 <h1>Кошельки вне Telegram</h1>
 
-<p>На свое мобильное устройство или же на компьютер можно скачать кошельки экосистемы TON. 
-Сейчас расскажем про самые популярные:<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/crew.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>На свое мобильное устройство или же на компьютер можно скачать кошельки экосистемы TON. Сейчас расскажем про самые популярные:<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/crew.png?raw=true" style="height:40px; width:40px" /></p>
 
 <ul>
 	<li>
-	<p><strong>Tonkeeper </strong>- один из самых удобных, <em>на наш взгляд</em>, кошельков. 
-  Есть основная вкладка с вашими активами, а также браузер, в котором собраны самые 
-  популярные приложения в тоне от децентрализованных бирж до игр. Поддерживает покупку 
-  Toncoin внутри приложения, хранение и перевод NFT. В одной из следующих тем, 
-  расскажем вам про основные внутрисистемные приложения!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/approach.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+	<p><strong>Tonkeeper </strong>- один из самых удобных, <em>на наш взгляд</em>, кошельков. Есть основная вкладка с вашими активами, а также браузер, в котором собраны самые популярные приложения в тоне от децентрализованных бирж до игр. Поддерживает покупку Toncoin внутри приложения, хранение и перевод NFT, а также работу с <strong>TON DNS</strong>: после покупки доменного имени .ton оно появляется у вас в разделе коллекций как NFT, и вы можете привязать этот домен к своему кошельку, чтобы получать переводы на короткий читаемый адрес вместо длинного криптографического.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/approach.png?raw=true" style="height:40px; width:40px" /></p>
 	</li>
 	<li>
-	<p><strong>Tonhub </strong>- в принципе, почти такой же кошелек, но в другом дизайне и с 
-  возможностью стейкинга. Никаких проблем не замечали, хороший кошелек.</p>
+	<p><strong>Tonhub </strong>- в принципе, почти такой же кошелек, но в другом дизайне и с возможностью стейкинга. Также поддерживает NFT и взаимодействие с TON DNS. Никаких проблем не замечали, хороший кошелек.</p>
 	</li>
 	<li>
-	<p><strong>MyTonWallet </strong>- и снова идентичный кошелек с браузерными приложениями.</p>
+	<p><strong>MyTonWallet </strong>- и снова идентичный кошелек с браузерными приложениями, поддержкой NFT и возможностью работы с доменами TON DNS.</p>
 	</li>
 </ul>
 
-<p>Выбор кошелька зависит от ваших вкусовых предпочтений. Они очень похожи между собой, 
-но наш выбор пал на Tonkeeper и именно за него можем ручаться. Он доступен 
-как мобильное и десктопное приложение с интуитивно понятным интерфейсом.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/art.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>Выбор кошелька зависит от ваших вкусовых предпочтений. Они очень похожи между собой, но наш выбор пал на Tonkeeper и именно за него можем ручаться. Он доступен как мобильное и десктопное приложение с интуитивно понятным интерфейсом.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/art.png?raw=true" style="height:40px; width:40px" /></p>
 
-<p>Все перечисленные кошельки являются некастодиальными, то есть пользователи 
-полностью контролируют свои приватные ключи и средства, что обеспечивает высокий уровень 
-безопасности и конфиденциальности!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/secure.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>Все перечисленные кошельки являются некастодиальными, то есть пользователи полностью контролируют свои приватные ключи и средства, что обеспечивает высокий уровень безопасности и конфиденциальности!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/9/32/images/secure.png?raw=true" style="height:40px; width:40px" /></p>
