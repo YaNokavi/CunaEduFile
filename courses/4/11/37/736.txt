@@ -1,13 +1,8 @@
 <h1>Права и ликвидность</h1>
 
-<p>После деплоя монеты создатель всё ещё может менять название, тикер и описание, 
-а также создавать дополнительные токены. Для отзыва прав необходимо нажать 
-кнопку <em>&quot;Revoke ownership&quot;</em>. Так как мы делаем скамину это 
-не обязательно делать, но может вызвать подозрение пользователей.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/lie.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>После деплоя монеты создатель всё ещё может менять название, тикер и описание, а также создавать дополнительные токены. Для отзыва данных прав необходимо нажать кнопку <em>&quot;Revoke ownership&quot;</em>. Так как мы делаем скамину это не обязательно делать, но может вызвать подозрение пользователей.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/lie.png?raw=true" style="height:40px; width:40px" /></p>
 
-<p>Теперь монеты на нужном нам кошельке, что же дальше? Осталось создать 
-пул ликвидности, чтобы токен вообще мог кто-то купить. Покажем на тестовом 
-токене, как это сделать! Для этого перейдем на DeDust:<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/transaction.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>Теперь монеты на нужном нам кошельке, что же дальше? Осталось создать пул ликвидности, чтобы токен вообще мог кто-то купить. Покажем на тестовом токене, как это сделать! Для этого перейдем на DeDust:<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/transaction.png?raw=true" style="height:40px; width:40px" /></p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/37/images/pool.jpg" style="height:262px; width:200px" /></p>
 
@@ -15,20 +10,10 @@
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/37/images/create.jpg" style="height:168px; width:200px" /></p>
 
-<p>Нажимаем <em>&quot;Создать пул&quot;</em> и вводим количство собственных 
-монет, которые закинем в пул, а также эквивалент к ним в другом 
-токене <em>(например, TON)</em>. Количество TON первоначально определит 
-сколько будет стоит одна ваша монета.</p>
+<p>Нажимаем <em>&quot;Создать пул&quot;</em> и вводим количство собственных монет, которые закинем в пул, а также эквивалент к ним в другом токене <em>(например, TON)</em>. Количество TON первоначально определит сколько будет стоит одна ваша монета.</p>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/4/11/37/images/quantity.jpg" style="height:171px; width:200px" /></p>
 
-<p>После того, как мы внесли ликвидность, токен можно купить! Однако, 
-чтобы он был официально представлен на внутренних биржах, таких как DeDust, 
-нужно написать заявку на добавление и заплатить комиссию сервису, на котором 
-будет листинг, но все зависит от конкретной платформы.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/cost.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>После того, как мы внесли ликвидность, токен можно купить! Однако, чтобы он был официально представлен на внутренних биржах, таких как DeDust, нужно написать заявку на добавление и заплатить комиссию сервису, на котором будет листинг, но все зависит от конкретной платформы.<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/cost.png?raw=true" style="height:40px; width:40px" /></p>
 
-<p>Этими уроками&nbsp;мы не только хотели рассказать как создать токен, но и показать, 
-что это не сложно, а значит каждый человек, который хочет заскамить аудиторию, 
-может это сделать довольно просто, поэтому будьте бдительны и осторожны, 
-покупая монеты инфлюенсиров. Всегда думайте, куда вкладываете деньги! А 
-если очень хочется рискнуть, делайте это на те деньги, которые не боитесь потерять!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/warning.png?raw=true" style="height:40px; width:40px; vertical-align: middle;" /></p>
+<p>Этими уроками&nbsp;мы не только хотели рассказать как создать токен, но и показать, что это не сложно, а значит каждый человек, который хочет заскамить аудиторию, может это сделать довольно просто, поэтому будьте бдительны и осторожны, покупая монеты инфлюенсиров. Всегда думайте, куда вкладываете деньги! А если очень хочется рискнуть, делайте это на те деньги, которые не боитесь потерять!<img src="https://github.com/YaNokavi/CunaEduFile/blob/main/courses/4/11/37/images/warning.png?raw=true" style="height:40px; width:40px" /></p>
