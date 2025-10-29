@@ -1,5 +1,7 @@
 <p><strong>Что такое стоп-ордер</strong></p>
 
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/Снимок%20экрана%202025-10-29%20в%2022.58.16.png" style="height:101px; width:150px" /></p>
+
 <p><strong>Стоп-ордер (stop order)</strong> - это заявка, которая активируется, когда цена достигает заданного уровня.<br />
 Он нужен, чтобы <strong>ограничить убытки</strong>, если рынок пошел против тебя.</p>
 
