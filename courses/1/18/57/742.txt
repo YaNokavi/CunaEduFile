@@ -1,4 +1,4 @@
-<p>Что такое стакан ордеров 📖</p>
+<h1>Что такое стакан ордеров 📖</h1>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/Снимок%20экрана%202025-10-29%20в%2022.32.45.png" style="height:263px; width:150px" /></p>
 
