@@ -1,4 +1,4 @@
-<h1>Лимитная заявка</h1>
+<h1>Лимитная заявка<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/58/images/sale.png" style="height:40px; width:40px" /></h1>
 
 <p><em>Лимитная заявка (limit order)</em> - это команда купить или продать актив по конкретной цене или лучше.<br />
 Ты говоришь бирже:</p>
@@ -15,7 +15,7 @@
 	<li>Если рынок упадет до 118 000 $, заявка исполнится автоматически.</li>
 </ul>
 
-<p><strong>Плюсы:</strong></p>
+<p><strong>Плюсы:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/58/images/like.png" style="height:40px; width:40px" /></strong></p>
 
 <ul>
 	<li>Ты сам контролируешь цену.</li>
@@ -23,7 +23,7 @@
 	<li>Иногда лимитные заявки даже получают вознаграждение (rebate) на некоторых биржах.</li>
 </ul>
 
-<p><strong>Минусы:</strong></p>
+<p><strong>Минусы:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/58/images/lose.png" style="height:40px; width:40px" /></strong></p>
 
 <ul>
 	<li>Не факт, что сделка вообще исполнится.</li>
