@@ -1,4 +1,4 @@
-<h1>Основные типы комбинированных ордеров&nbsp;</h1>
+<h1>Основные типы комбинированных ордеров<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/analyse.png" style="height:40px; width:40px" />&nbsp;</h1>
 
 <ol>
 	<li><em>OCO (One Cancels the Other).&nbsp;</em>Это классический вариант. Ты задаёшь одновременно стоп и тейк.<br />
@@ -16,4 +16,4 @@
 	<li>и тейк-профит.</li>
 </ul>
 
-<p>Всё в одном комплекте. Используется для полного <em>автоматического управления</em> сделкой от открытия до выхода.</p>
+<p>Всё в одном комплекте. Используется для полного <em>автоматического управления</em> сделкой от открытия до выхода<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/fast.png" style="height:40px; width:40px" /></p>
