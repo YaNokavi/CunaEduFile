@@ -1,4 +1,4 @@
-<p>Если ты когда-нибудь нажимал кнопку &laquo;Купить&raquo; или &laquo;Продать&raquo; на бирже - ты уже создавал <strong>заявку</strong> (или, как говорят на английском, <strong>ордер</strong>).&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/refs/heads/main/courses/1/1/1/images/analyse.png" style="height:55px; width:55px" /></p>
+<p>Если ты когда-нибудь нажимал кнопку &laquo;Купить&raquo; или &laquo;Продать&raquo; на бирже - ты уже создавал <strong>заявку</strong> (или, как говорят на английском, <strong>ордер</strong>).&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/refs/heads/main/courses/1/1/1/images/analyse.png" style="height:40px; width:40px" /></p>
 
 <p>Заявка - это твоё <em>распоряжение бирже</em>:</p>
 
