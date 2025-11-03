@@ -1,4 +1,4 @@
-<h1><strong>Как работает логика Trailing Stop</strong></h1>
+<h1><strong>Как работает логика Trailing Stop<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/approach.png" style="height:40px; width:40px" /></strong></h1>
 
 <ol>
 	<li>Ты задаёшь дистанцию - например, 2% или 500$.</li>
@@ -8,7 +8,7 @@
 
 <p>По сути, <em>трейлинг-стоп</em> - это автоматический помощник, который &ldquo;бежит&rdquo; за ценой, пока та растёт, и останавливается, когда движение заканчивается.</p>
 
-<p><strong>Зачем нужен Trailing Stop?</strong></p>
+<p><strong>Зачем нужен Trailing Stop?<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/analyse.png" style="height:40px; width:40px" /></strong></p>
 
 <ul>
 	<li>Чтобы защитить прибыль без ручного вмешательства.</li>
