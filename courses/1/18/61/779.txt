@@ -1,4 +1,4 @@
-<h1><strong>Зачем нужны комбинированные заявки</strong></h1>
+<h1><strong>Зачем нужны комбинированные заявки<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/smartcontract.png" style="height:40px; width:40px" /></strong></h1>
 
 <ul>
 	<li><em>Удобство</em>: не нужно вручную закрывать сделки или следить за каждой свечой.</li>
