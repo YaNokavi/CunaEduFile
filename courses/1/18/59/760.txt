@@ -1,4 +1,4 @@
-<h1><strong>Как правильно выбирать уровни</strong></h1>
+<h1><strong>Как правильно выбирать уровни<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/analyse.png" style="height:40px; width:40px" /></strong></h1>
 
 <ol>
 	<li><em>Учитывай волатильность</em>. Если рынок сильно &quot;шатает&quot;, ставь стоп чуть дальше, чтобы не выбило случайным движением. При спокойном рынке можно ставить ближе.</li>
@@ -6,7 +6,7 @@
 	<li><em>Соблюдай риск-менеджмент.&nbsp;</em>Определи заранее, какой процент от общего депозита ты готов потерять в одной сделке (обычно 1-2%).</li>
 </ol>
 
-<p><strong>Типичные ошибки:</strong></p>
+<p><strong>Типичные ошибки:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/mistake.png" style="height:40px; width:40px" /></strong></p>
 
 <ol>
 	<li><em>Отсутствие стопа.&nbsp;</em>Самая распространенная и самая опасная ошибка. Без стоп-лосса можно потерять всё на одном резком движении.</li>
