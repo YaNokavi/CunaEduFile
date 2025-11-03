@@ -1,11 +1,11 @@
-<h1><strong>Что такое комбинированная заявка?</strong></h1>
+<h1><strong>Что такое комбинированная заявка?<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/approach.png" style="height:40px; width:40px" /></strong></h1>
 
 <p><strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/Снимок%20экрана%202025-10-29%20в%2023.05.39.png" style="height:118px; width:150px" /></strong></p>
 
 <p><em>Комбинированная заявка</em> - это набор нескольких ордеров, объединённых в одну стратегию.<br />
 Главная цель таких заявок - автоматизировать управление позицией: система сама закроет сделку, если достигнуты нужные условия.</p>
 
-<p><strong>Простой пример:</strong><br />
+<p><strong>Простой пример:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/61/images/document.png" style="height:40px; width:47px" /></strong><br />
 Ты открыл лонговую позицию (Buy) по биткоину на 120 000$.<br />
 Ты хочешь:</p>
 
