@@ -1,4 +1,4 @@
-<h1><strong>Как выбрать дистанцию трейлинга?&nbsp;</strong></h1>
+<h1><strong>Как выбрать дистанцию трейлинга?&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/maths.png" style="height:40px; width:40px" /></strong></h1>
 
 <ul>
 	<li>При <em>высокой волатильности</em> - делай расстояние больше (чтобы ордер не выбивало шумом).</li>
@@ -7,7 +7,7 @@
 
 <p>Главное - не ставь расстояние &ldquo;на глаз&rdquo;: подбирай под волатильность инструмента и таймфрейм.</p>
 
-<p><strong>Типичные ошибки при использовании Trailing Stop:</strong></p>
+<p><strong>Типичные ошибки при использовании Trailing Stop:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/mistake.png" style="height:40px; width:40px" /></strong></p>
 
 <ol>
 	<li><em>Слишком маленькая дистанция.&nbsp;</em>Тогда ордер будет срабатывать от малейшего движения, и ты выйдешь слишком рано.</li>
