@@ -1,4 +1,4 @@
-<h1><strong>Комбинирование стоп-лосса и тейк-профита</strong></h1>
+<h1><strong>Комбинирование стоп-лосса и тейк-профита<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/market.png" style="height:40px; width:40px" /></strong></h1>
 
 <p><strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/Снимок%20экрана%202025-10-29%20в%2023.05.39.png" style="height:118px; width:150px" /></strong></p>
 
@@ -9,7 +9,7 @@
 	<li><em>Тейк-профит</em> фиксирует прибыль, пока рынок не развернулся.</li>
 </ul>
 
-<p>Такой подход помогает соблюдать дисциплину и не превращать торговлю в эмоциональные качели.</p>
+<p>Такой подход помогает соблюдать дисциплину и не превращать торговлю в эмоциональные качели<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/investor.png" style="height:40px; width:40px" /></p>
 
 <p><strong>Пример стратегии:</strong></p>
 
