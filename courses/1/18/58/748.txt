@@ -1,4 +1,4 @@
-<h1><strong>Что такое рыночные и лимитные заявки</strong></h1>
+<h1><strong>Что такое рыночные и лимитные заявки<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/58/images/support.png" style="height:40px; width:40px" /></strong></h1>
 
 <p><br />
 Когда ты открываешь торговый терминал и нажимаешь кнопку &laquo;Купить&raquo; или &laquo;Продать&raquo;, ты по сути отправляешь <em>заявку</em> на биржу. Но вот какую именно заявку ты создаешь - <em>рыночную</em> или <em>лимитную</em> - решает, как именно и по какой цене произойдет сделка.</p>
