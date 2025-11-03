@@ -1,6 +1,6 @@
 <h1><strong>Что такое Trailing Stop?&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/support.png" style="height:40px; width:40px" /></strong></h1>
 
-<p><strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/f5df8da7-8274-49a6-a691-e2d0e393bc4f.png" style="height:100px; width:150px" /></strong></p>
+<p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/60/images/f5df8da7-8274-49a6-a691-e2d0e393bc4f.png" style="height:100px; width:150px" /></p>
 
 <p><em>Trailing Stop (трейлинг-стоп)</em> - это стоп-ордер, который движется вслед за ценой, если она идёт в твою сторону.<br />
 Он автоматически подтягивает стоп-лосс, фиксируя прибыль, но не двигается назад, если цена разворачивается.</p>
