@@ -1,4 +1,4 @@
-<h1><strong>Комбинирование стоп-лосса и тейк-профита<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/market.png" style="height:40px; width:40px" /></strong></h1>
+<h1>Комбинирование стоп-лосса и тейк-профита<strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/market.png" style="height:40px; width:40px" /></strong></h1>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/Снимок%20экрана%202025-10-29%20в%2023.05.39.png" style="height:118px; width:150px" /></p>
 
