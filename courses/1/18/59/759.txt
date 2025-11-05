@@ -1,7 +1,6 @@
-<h1><strong>Как это работает технически<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/technical.png" style="height:40px; width:40px" /></strong></h1>
+<h1>Как это работает технически<strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/technical.png" style="height:40px; width:40px" /></strong></h1>
 
-<p>На бирже стоп-ордера не исполняются сразу - они активируются, когда <em>цена достигает триггера.</em><br />
-После активации они превращаются в рыночный или лимитный ордер (в зависимости от настроек):</p>
+<p>На бирже стоп-ордера не исполняются сразу - они активируются, когда <em>цена достигает триггера.&nbsp;</em>После активации они превращаются в рыночный или лимитный ордер (в зависимости от настроек):</p>
 
 <ul>
 	<li><em>Stop Market</em>: при срабатывании сразу превращается в рыночный ордер.</li>
@@ -10,4 +9,4 @@
 
 <p>Stop Market гарантирует исполнение, но может проскользнуть (цена исполнения заявки может отличаться от той, которую вы указали)<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/59/images/maths.png" style="height:40px; width:40px" /></p>
 
-<p>Stop Limit дает контроль над ценой, но есть риск, что сделка не закроется</p>
+<p>Stop Limit дает контроль над ценой, но есть риск, что сделка не закроется.</p>
