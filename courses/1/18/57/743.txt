@@ -1,18 +1,15 @@
-<p>Заявка &ne; сделка</p>
+<h1>Заявка &ne; сделка</h1>
 
-<p>Многие путают эти два понятия.</p>
+<p>Многие путают эти два понятия:</p>
 
 <ul>
 	<li><em>Заявка (ордер) </em>- это просто <em>намерение</em> купить или продать.</li>
 	<li><em>Сделка (trade) </em>- это уже <em>факт обмена</em> между покупателем и продавцом.</li>
 </ul>
 
-<p>Можно сказать:</p>
+<p>Можно сказать, что ордер - это обещание, а&nbsp;сделка - его исполнение.</p>
 
-<p>Ордер - это обещание,<br />
-А сделка - его исполнение.</p>
-
-<h1><strong>Основные параметры заявки&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/graphic.png" style="height:40px; width:40px" /></strong></h1>
+<h3>Основные параметры заявки<strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/graphic.png" style="height:40px; width:40px" /></strong></h3>
 
 <p>Каждая заявка содержит:</p>
 
@@ -24,10 +21,9 @@
 	<li><em>Дополнительные условия</em> - например, &quot;только сегодня&quot; или &quot;исполнить немедленно&quot;.</li>
 </ol>
 
-<h1><strong>Зачем нужны заявки&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/approach.png" style="height:40px; width:40px" /></strong></h1>
+<h3>Зачем нужны заявки<strong><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/approach.png" style="height:40px; width:40px" /></strong></h3>
 
-<p>Без заявок торговля была бы хаосом.<br />
-Заявки и стакан ордеров позволяют:</p>
+<p>Без заявок торговля была бы хаосом. Заявки и стакан ордеров позволяют:</p>
 
 <ul>
 	<li>Упорядочить процесс купли-продажи.</li>
