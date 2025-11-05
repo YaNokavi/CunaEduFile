@@ -1,9 +1,8 @@
-<h1>Что такое стакан ордеров&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/document.png" style="height:40px; width:47px" /></h1>
+<h1>Что такое стакан ордеров</h1>
 
 <p><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/Снимок%20экрана%202025-10-29%20в%2022.32.45.png" style="height:263px; width:150px" /></p>
 
-<p><strong>Стакан ордеров (Order Book)</strong> - это таблица, где отображаются все активные заявки на покупку и продажу актива.<br />
-Он показывает, на каких уровнях цен участники готовы покупать и продавать, и <em>какие объёмы</em> стоят за этими ценами.</p>
+<p><strong>Стакан ордеров (Order Book)</strong> - это таблица, где отображаются все активные заявки на покупку и продажу актива. Он показывает, на каких уровнях цен участники готовы покупать и продавать, и <em>какие объёмы</em> стоят за этими ценами.</p>
 
 <p>Условно говоря:&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/market.png" style="height:40px; width:40px" /></p>
 
