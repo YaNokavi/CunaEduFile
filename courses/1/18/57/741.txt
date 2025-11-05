@@ -1,15 +1,14 @@
-<p>Если ты когда-нибудь нажимал кнопку &laquo;Купить&raquo; или &laquo;Продать&raquo; на бирже - ты уже создавал <strong>заявку</strong> (или, как говорят на английском, <strong>ордер</strong>)&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/analyse.png" style="height:40px; width:40px" /></p>
+<h1>Что такое ордер?</h1>
 
-<p>Заявка - это твоё <em>распоряжение бирже</em>:</p>
+<p>Если ты когда-нибудь нажимал кнопку &laquo;Купить&raquo; или &laquo;Продать&raquo; на бирже - ты уже создавал <strong>заявку</strong> (или, как говорят на английском, <strong>ордер</strong>)<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/analyse.png" style="height:40px; width:40px" /></p>
 
-<p>&laquo;Купи или продай этот актив по такой-то цене и на таких-то условиях&raquo;.</p>
+<p>Заявка - это твоё <em>распоряжение бирже</em>: &laquo;Купи или продай этот актив по такой-то цене и на таких-то условиях&raquo;.</p>
 
 <p>Биржа не может просто так исполнить твоё желание - ей нужно точное указание <em>что</em>, <em>по какой цене</em> и <em>в каком объёме</em> ты хочешь купить или продать. Всё это и есть <em>параметры ордера.</em></p>
 
-<p><strong>Как это работает:</strong></p>
+<h3>Как это работает:</h3>
 
-<p>Представь, что биржа - это огромная доска объявлений, где одни трейдеры выкладывают заявки на покупку, а другие - на продажу&nbsp;<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/smartcontract.png" style="height:40px; width:40px" /><br />
-Когда цены совпадают - происходит<em> сделка.</em></p>
+<p>Представь, что биржа - это огромная доска объявлений, где одни трейдеры выкладывают заявки на покупку, а другие - на продажу. Когда цены совпадают - происходит <em>сделка.</em><img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/smartcontract.png" style="height:40px; width:40px" /></p>
 
 <p><strong>Пример:<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/transaction.png" style="height:40px; width:48px" /></strong></p>
 
@@ -18,7 +17,4 @@
 	<li>Другой трейдер ставит заявку: &laquo;Продать 1 BTC по 120 000 $&raquo;.</li>
 </ul>
 
-<p>&nbsp;Когда цены совпали - ордеры встретились, и сделка состоялась.</p>
-
-<p>Если же твоя цена пока не совпадает с рыночной - заявка будет ждать своего часа в <strong>стакане ордеров</strong>.<br />
-&nbsp;</p>
+<p>Когда цены совпали - ордеры встретились, и сделка состоялась. Если же твоя цена пока не совпадает с рыночной - заявка будет ждать своего часа в <strong>стакане ордеров</strong>.</p>
