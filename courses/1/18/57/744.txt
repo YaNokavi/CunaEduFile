@@ -1,6 +1,5 @@
-<h1>Итог<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/solution.png" style="height:40px; width:40px" /></h1>
+<h1>Заключение<img alt="" src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/main/courses/1/18/57/images/solution.png" style="height:40px; width:40px" /></h1>
 
-<p><em>Заявка (ордер)</em> - это инструмент, через который ты взаимодействуешь с биржей.<br />
-Она превращает твоё желание &laquo;купить&raquo; или &laquo;продать&raquo; в конкретное действие, понятное торговой системе.</p>
+<p><em>Заявка (ордер)</em> - это инструмент, через который ты взаимодействуешь с биржей. Она превращает твоё желание &laquo;купить&raquo; или &laquo;продать&raquo; в конкретное действие, понятное торговой системе.</p>
 
 <p>А <em>стакан ордеров</em> - это зеркало рынка, где видно, кто и по какой цене готов покупать или продавать прямо сейчас.</p>
