@@ -1,1 +1,11 @@
-ewogICJxdWVzdGlvbnMiOiBbXQp9
+{
+  "question": "Новый тест",
+  "options": [
+    "а",
+    "б",
+    "в"
+  ],
+  "answer": [
+    "б"
+  ]
+}
