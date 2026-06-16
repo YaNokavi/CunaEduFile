@@ -1,1 +1,1 @@
-<h1>Привет</h1><p></p><p><strong><em>Тестовый</em></strong></p>
+<h1>Привет</h1><p></p><p><strong><em>Тестовый</em></strong><img src="https://raw.githubusercontent.com/YaNokavi/CunaEduFile/c24ee6dbd18ffb7f2ac70cdfdcc5859d20cf32af/courses/18/26/70/images/4.png" width="100" height="50"></p>
